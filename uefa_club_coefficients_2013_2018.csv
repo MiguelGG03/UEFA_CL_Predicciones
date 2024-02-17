@@ -1,0 +1,443 @@
+Team,Country,13/14,14/15,15/16,16/17,17/18
+Real Madrid,Esp,35.00,29.00,33.00,33.00,32.00
+Atlético Madrid,Esp,33.00,22.00,28.00,29.00,28.00
+Bayern München,Ger,27.00,28.00,29.00,22.00,29.00
+FC Barcelona,Esp,24.00,34.00,26.00,23.00,25.00
+Juventus,Ita,23.00,29.00,18.00,33.00,23.00
+Sevilla,Esp,22.00,28.00,23.00,19.00,21.00
+Paris Saint-Germain,Fra,25.00,21.00,24.00,20.00,19.00
+Manchester City,Eng,19.00,15.00,26.00,18.00,22.00
+Arsenal,Eng,18.00,20.00,15.00,19.00,21.00
+Borussia Dortmund,Ger,22.00,18.00,17.00,22.00,10.00
+FC Porto,Por,16.00,25.00,11.00,17.00,17.00
+Manchester United,Eng,23.00,,13.00,26.00,20.00
+Chelsea,Eng,25.00,21.00,18.00,,18.00
+Shakhtar Donetsk,Ukr,11.00,17.00,20.00,14.00,19.00
+Benfica,Por,29.00,8.00,22.00,17.00,4.00
+Zenit St. Petersburg,Rus,16.00,17.00,19.00,12.00,14.00
+Napoli,Ita,16.00,22.00,13.00,17.00,10.00
+FC Basel,Sui,19.00,15.00,12.00,6.00,19.00
+Tottenham Hotspur,Eng,15.00,9.00,12.00,10.00,21.00
+Bayer Leverkusen,Ger,16.00,18.00,14.00,18.00,
+AS Roma,Ita,,12.00,14.00,13.00,25.00
+Liverpool,Eng,,10.00,22.00,,30.00
+Dinamo Kiev,Ukr,8.00,16.00,18.00,8.00,12.00
+Schalke 04,Ger,16.00,17.00,11.00,18.00,
+Olympique Lyon,Fra,15.00,1.50,7.00,22.00,14.00
+Besiktas,Tur,,11.00,7.00,20.00,19.00
+AS Monaco,Fra,,21.00,5.00,25.00,6.00
+FC Salzburg,Aut,17.00,11.00,1.50,5.00,21.00
+Olympiakos Piraeus,Gre,18.00,11.00,10.00,10.00,5.00
+Fiorentina,Ita,15.00,20.00,8.00,11.00,
+Ajax,Ned,10.00,14.00,6.00,22.00,1.50
+Villarreal,Esp,,12.00,23.00,9.00,8.00
+Anderlecht,Bel,5.00,10.00,11.00,16.00,6.00
+Athletic Bilbao,Esp,,10.00,17.00,9.00,10.00
+CSKA Moscow,Rus,6.00,8.00,7.00,7.00,17.00
+Lazio,Ita,10.00,,14.00,,17.00
+Sporting CP Lisbon,Por,,10.00,7.00,6.00,17.00
+VfL Wolfsburg,Ger,,16.00,24.00,,
+Ludogorets Razgrad,Bul,14.00,7.00,1.00,8.00,7.00
+PSV Eindhoven,Ned,5.00,6.00,18.00,6.00,1.00
+Valencia,Esp,22.00,,14.00,,
+Sparta Praha,Cze,0.50,7.00,17.00,9.00,1.00
+FC København,Den,7.00,3.00,1.00,16.00,7.00
+Dnipro Dnipropetrovsk,Ukr,10.00,19.00,5.00,,
+Viktoria Plzen,Cze,11.00,1.00,3.00,5.00,13.00
+Olympique Marseille,Fra,4.00,,9.00,,19.00
+Celtic,Sco,6.00,7.00,3.00,7.00,8.00
+Sporting Braga,Por,1.50,,15.00,5.00,9.00
+PAOK Thessaloniki,Gre,9.00,5.00,6.00,8.00,1.50
+Club Brugge,Bel,1.00,19.00,4.00,4.00,1.50
+Galatasaray,Tur,15.00,5.00,9.00,,0.50
+Borussia Mönchengladbach,Ger,,9.00,8.00,12.00,
+AC Milan,Ita,16.00,,,,12.00
+FCSB,Rom,7.00,5.00,1.50,5.00,9.00
+APOEL Nicosia,Cyp,4.00,5.00,2.00,10.00,6.00
+AA Gent,Bel,,,16.00,10.00,1.00
+Racing Genk,Bel,11.00,,,16.00,
+AZ Alkmaar,Ned,16.00,,3.00,6.00,
+Legia Warsaw,Pol,2.00,10.00,3.00,8.00,1.50
+AS Saint-Étienne,Fra,1.50,5.00,9.00,9.00,
+Fenerbahçe,Tur,,,12.00,10.00,1.50
+FK Krasnodar,Rus,,5.00,9.00,8.00,1.50
+Lokomotiv Moscow,Rus,,1.50,9.00,,12.00
+NK Maribor,Slo,6.00,7.00,1.00,1.50,7.00
+Maccabi Tel-Aviv,Isr,9.00,1.50,4.00,5.00,3.00
+Leicester City,Eng,,,,22.00,
+FK Astana,Kaz,0.25,1.50,8.00,4.00,8.00
+Feyenoord,Ned,1.50,9.00,,5.00,6.00
+Rapid Wien,Aut,5.00,1.50,10.00,5.00,
+Real Sociedad,Esp,5.00,1.50,,,9.00
+Celta de Vigo,Esp,,,,19.00,
+Real Betis,Esp,12.00,,,,
+Qarabag FK,Azb,1.50,5.00,3.00,5.00,6.00
+Young Boys,Sui,,8.00,1.50,6.00,5.00
+BATE Borisov,Bls,1.00,6.00,8.00,1.50,4.00
+Trabzonspor,Tur,10.00,7.00,1.00,,
+Dinamo Zagreb,Cro,2.00,4.00,6.00,4.00,1.50
+RB Leipzig,Ger,,,,,17.00
+Partizan Belgrade,Srb,1.50,2.00,6.00,0.50,7.00
+Everton,Eng,,14.00,,,3.00
+Slovan Liberec,Cze,8.00,1.00,5.00,3.00,
+Austria Wien,Aut,8.00,,,4.00,4.00
+Internazionale,Ita,,12.00,,4.00,
+Rubin Kazan,Rus,11.00,,5.00,,
+Dinamo Moscow,Rus,,16.00,,,
+Southampton FC,Eng,,,1.50,6.00,
+West Ham United,Eng,,,1.00,1.50,
+Hull City,Eng,,1.50,,,
+Swansea City,Eng,7.00,,,,
+Wigan Athletic,Eng,4.00,,,,
+NK Rijeka,Cro,4.00,5.00,0.50,1.00,5.00
+Atalanta,Ita,,,,,11.00
+Sassuolo,Ita,,,,4.00,
+Sampdoria,Ita,,,1.00,,
+Torino,Ita,,13.00,,,
+Udinese,Ita,1.50,,,,
+Sheriff Tiraspol,Mol,5.00,1.50,0.25,1.00,7.00
+Hertha BSC,Ger,,,,1.00,4.00
+1.FC Köln,Ger,,,,,4.00
+1899 Hoffenheim,Ger,,,,,4.00
+SC Freiburg,Ger,5.00,,,,1.00
+FSV Mainz 05,Ger,,1.00,,7.00,
+FC Augsburg,Ger,,,7.00,,
+Eintracht Frankfurt,Ger,12.00,,,,
+VfB Stuttgart,Ger,1.50,,,,
+Astra Giurgiu,Rom,1.50,3.00,1.50,7.00,1.00
+Malmö FF,Swe,1.00,6.00,6.00,,1.00
+Spartak Moscow,Rus,1.50,,,1.00,11.00
+FK Rostov,Rus,,1.50,,12.00,
+Standard Liège,Bel,2.00,3.00,1.50,6.00,
+Molde FK,Nor,1.50,1.00,10.00,,
+FC Zürich,Sui,1.00,5.00,1.00,5.00,
+OGC Nice,Fra,1.50,,,4.00,6.00
+FC Midtjylland,Den,,1.50,7.00,1.50,1.50
+Girondins Bordeaux,Fra,2.00,,4.00,,1.00
+Lille OSC,Fra,,4.00,,1.00,
+En Avant Guingamp,Fra,,9.00,,,
+Zulte Waregem,Bel,5.00,1.00,,,5.00
+Red Star Belgrade,Srb,1.00,,0.25,1.50,8.00
+Anzhi Makhachkala,Rus,10.00,,,,
+Kuban Krasnodar,Rus,5.00,,,,
+Östersunds FK,Swe,,,,,10.00
+AEK Athens,Gre,,,,1.00,9.00
+Hapoel Beer-Sheva,Isr,,0.50,0.50,6.00,3.00
+Apollon Limassol,Cyp,3.00,2.00,1.00,1.00,3.00
+Esbjerg fB,Den,9.00,1.00,,,
+Vitória Guimarães,Por,4.00,,1.00,,4.00
+Maritimo Funchal,Por,,,,,1.50
+FC Arouca,Por,,,,1.50,
+Rio Ave,Por,,3.00,,1.00,
+CF Os Belenenses,Por,,,4.00,,
+Estoril Praia,Por,3.00,4.00,,,
+Nacional Funchal,Por,,1.50,,,
+Paços de Ferreira,Por,3.00,,,,
+Zorya Luhansk,Ukr,,1.50,1.50,2.00,4.00
+Rosenborg BK,Nor,0.50,1.00,2.00,1.50,4.00
+FC Sion,Sui,,,8.00,,1.00
+Asteras Tripolis,Gre,1.00,5.00,3.00,,
+Chernomorets Odesa,Ukr,8.00,1.00,,,
+Istanbul Basaksehir,Tur,,,1.00,1.50,6.00
+Skënderbeu Korçë,Alb,1.50,1.00,2.00,,4.00
+FC Oleksandriya,Ukr,,,,1.00,1.50
+Olimpik Donetsk,Ukr,,,,,1.00
+Vorskla Poltava,Ukr,,,1.00,1.00,
+Metalist Kharkiv,Ukr,,2.00,,,
+Metalurg Donetsk,Ukr,1.00,,,,
+Dinamo Minsk,Bls,1.00,3.00,2.00,1.00,1.00
+HJK Helsinki,Fin,1.00,4.00,1.50,1.00,0.50
+Osmanlispor,Tur,,,,8.00,
+KV Oostende,Bel,,,,,1.00
+Charleroi,Bel,,,1.00,,
+KSC Lokeren,Bel,,7.00,,,
+Slavia Praha,Cze,,,,1.50,6.00
+Konyaspor,Tur,,,,2.00,5.00
+Karabükspor,Tur,,1.50,,,
+Bursaspor,Tur,1.00,0.50,,,
+Panathinaikos,Gre,,2.00,1.50,2.00,1.50
+Hajduk Split,Cro,1.00,1.50,1.50,1.50,1.50
+Lech Poznan,Pol,1.00,1.00,4.00,,1.00
+SCR Altach,Aut,,,1.50,,1.50
+Sturm Graz,Aut,0.50,,1.00,,1.00
+Admira Wacker,Aut,,,,1.00,
+Wolfsberger AC,Aut,,,1.00,,
+St. Pölten,Aut,,1.00,,,
+SV Grödig,Aut,,1.00,,,
+FC Pasching,Aut,1.50,,,,
+AaB Aalborg,Den,0.50,6.00,,,
+FC Lugano,Sui,,,,,6.00
+FC Luzern,Sui,,0.50,,1.00,0.50
+Grasshoppers Zürich,Sui,1.50,1.50,,1.50,
+FC Thun,Sui,2.00,,1.50,,
+FC Sankt Gallen,Sui,4.00,,,,
+FC Zlin,Cze,,,,,2.00
+Mladá Boleslav,Cze,,1.00,0.50,1.00,1.00
+FK Jablonec,Cze,1.50,,1.50,,
+Vitesse Arnhem,Ned,1.00,,1.00,,4.00
+FC Utrecht,Ned,0.50,,,,1.50
+Heracles Almelo,Ned,,,,1.00,
+FC Groningen,Ned,,0.50,2.00,,
+Go Ahead Eagles,Ned,,,0.25,,
+FC Twente Enschede,Ned,,1.50,,,
+PEC Zwolle,Ned,,1.50,,,
+Panionios,Gre,,,,,1.00
+PAS Giannina,Gre,,,,1.00,
+Atromitos FC,Gre,1.50,1.00,1.50,,
+Xanthi FC,Gre,1.00,,,,
+FH Hafnarfjardar,Isl,1.50,1.00,0.50,1.00,1.50
+Dundalk,Irl,,0.50,1.00,3.00,1.00
+Zalgiris Vilnius,Lit,1.50,1.00,1.00,1.00,1.00
+IF Elfsborg,Swe,3.00,1.50,1.00,,
+Gabala FK,Azb,,0.25,2.00,2.00,1.00
+Vojvodina Novi Sad,Srb,1.50,0.50,1.50,1.50,0.25
+NK Osijek,Cro,,,,,1.50
+Lokomotiva Zagreb,Cro,0.50,,0.50,1.50,
+RNK Split,Cro,,1.50,,,
+Brøndby IF,Den,,1.00,1.50,1.50,1.00
+Lyngby BK,Den,,,,,1.00
+SønderjyskE,Den,,,,1.50,
+Randers FC,Den,1.00,,0.50,,
+FC Nordsjælland,Den,1.50,,,,
+Vardar Skopje,Mac,1.00,,1.00,1.00,2.00
+The New Saints,Wal,1.00,1.00,1.00,1.00,1.00
+AS Trencín,Svk,1.00,1.00,1.00,1.50,0.50
+Slovan Bratislava,Svk,1.00,2.00,1.00,0.50,0.50
+Maccabi Haifa,Isr,4.00,,,0.50,
+Bnei Yehuda,Isr,,,,,1.00
+Beitar Jerusalem,Isr,,,0.50,1.50,0.50
+Hapoel Kiryat Shmona,Isr,,1.00,1.00,,
+Hapoel Tel-Aviv,Isr,1.00,0.50,,,
+Hapoel Ramat-Gan,Isr,1.00,,,,
+AEK Larnaca,Cyp,,,1.00,1.50,1.50
+AEL Limassol,Cyp,,1.50,,,1.00
+Omonia Nicosia,Cyp,0.50,1.50,1.00,0.50,
+Ermis Aradippou,Cyp,,1.00,,,
+Anorthosis Famagusta,Cyp,0.50,,,,
+Videoton Fehérvár,Hun,0.25,,1.50,1.00,1.50
+FK Kukësi,Alb,1.50,0.25,1.00,0.50,1.00
+Dinamo Tbilisi,Geo,1.50,1.00,0.25,1.50,
+Viitorul Constanta,Rom,,,,1.00,1.50
+Dinamo Bucuresti,Rom,,,,,1.00
+Universitatea Craiova,Rom,,,,,1.00
+Pandurii Târgu Jiu,Rom,2.00,,,1.00,
+CSMS Iasi,Rom,,,,0.50,
+ASA Tirgu Mures,Rom,,,1.00,,
+FC Botosani,Rom,,,0.50,,
+Petrolul Ploiesti,Rom,1.50,1.50,,,
+CFR Cluj,Rom,,1.00,,,
+Arka Gdynia,Pol,,,,,1.00
+Jagiellonia Bialystok,Pol,,,0.50,,0.50
+Zaglebie Lubin,Pol,,,,1.00,
+Piast Gliwice,Pol,0.50,,,0.50,
+Cracovia Kraków,Pol,,,,0.25,
+Slask Wroclaw,Pol,1.50,,0.50,,
+Ruch Chorzow,Pol,,1.50,,,
+Zawisza Bydgoszcz,Pol,,0.50,,,
+AIK Stockholm,Swe,,1.00,1.00,1.00,1.00
+Aberdeen,Sco,,1.00,1.00,1.00,1.00
+Kalju Nomme,Est,1.50,0.50,0.50,1.00,0.50
+IFK Göteborg,Swe,0.50,1.00,1.00,1.50,
+IFK Norrköping,Swe,,,,1.00,0.50
+BK Häcken,Swe,1.00,,,0.50,
+IF Brommapojkarna,Swe,,1.00,,,
+Gefle IF,Swe,1.00,,,,
+Botev Plovdiv,Bul,1.00,0.50,,,1.00
+Levski Sofia,Bul,0.25,,,0.50,0.50
+Inter Baku,Azb,0.50,0.50,1.00,,0.50
+Zira FK,Azb,,,,,0.50
+Dunav Ruse,Bul,,,,,0.25
+FC Beroe Stara Zagora,Bul,0.50,,0.50,0.50,
+Neftchi Baku,Azb,1.00,1.50,0.25,0.50,
+Kapaz Ganja,Azb,,,,0.50,
+Slavia Sofia,Bul,,,,0.25,
+Cherno More Varna,Bul,,,0.50,,
+Litex Lovech,Bul,,0.50,0.25,,
+CSKA Sofia,Bul,,0.50,,,
+Khazar Lenkoran,Azb,0.50,,,,
+Zrinjski Mostar,Bos,0.50,1.00,0.25,1.00,1.00
+FK Ventspils,Lat,1.00,1.00,1.00,0.50,0.25
+Mladost Lucani,Srb,,,,,0.25
+Cukaricki Belgrade,Srb,,0.50,0.50,0.50,
+FK Jagodina,Srb,0.50,0.50,,,
+Dynamo Brest,Bls,,,,,0.50
+Shakhtior Saligorsk,Bls,0.50,1.50,0.50,0.50,0.25
+St. Johnstone,Sco,1.00,1.00,0.25,,0.25
+Glasgow Rangers,Sco,,,,,0.25
+Torpedo Zhodino,Bls,,,0.25,1.00,
+Hibernian,Sco,0.50,,,0.50,
+Hearts FC,Sco,,,,0.50,
+Inverness CT,Sco,,,0.50,,
+Motherwell,Sco,1.00,0.50,,,
+Neman Grodno,Bls,,0.50,,,
+FK Minsk,Bls,1.50,,,,
+Kairat Almaty,Kaz,,0.50,1.50,0.50,0.50
+Irtysh Pavlodar,Kaz,0.50,,,,0.50
+Ordabasy Shymkent,Kaz,,,0.25,0.25,0.25
+FK Aktobe,Kaz,1.50,1.50,0.25,0.25,
+Shakhtyor Karaganda,Kaz,2.00,1.00,,,
+Shkendija Tetovo,Mac,,0.25,0.25,1.50,1.50
+F91 Dudelange,Lux,0.25,1.00,0.25,1.00,1.00
+CS Fola Esch,Lux,1.00,0.25,1.00,0.25,1.00
+MSK Zilina,Svk,1.00,,1.50,,1.00
+Spartak Trnava,Svk,,1.50,1.00,1.00,
+DVSC Debrecen,Hun,0.50,1.50,1.00,0.50,
+Strømsgodset IF,Nor,1.00,1.00,1.00,0.50,
+Odd Grenland,Nor,,,1.50,0.50,1.00
+FK Haugesund,Nor,,0.50,,,0.50
+SK Brann Bergen,Nor,,,,,0.50
+Stabæk IF,Nor,,,,0.25,
+Tromsø IL,Nor,2.00,0.50,,,
+IL Hødd,Nor,0.50,,,,
+Valletta FC,Mlt,0.50,1.00,0.25,1.00,0.50
+Rabotnicki Skopje,Mac,,1.00,1.50,0.25,0.50
+FK Sarajevo,Bos,0.50,1.50,1.00,,0.25
+NK Domzale,Slo,0.25,,0.25,1.00,1.50
+Víkingur,Far,0.50,1.00,0.25,0.25,1.00
+Mladost Podgorica,Mon,1.00,,0.50,1.00,0.50
+KR Reykjavik,Isl,0.50,1.00,0.50,0.50,0.50
+Zeljeznicar Sarajevo,Bos,1.00,0.50,1.00,,0.50
+Crusaders Belfast,Nir,0.25,0.50,1.00,1.00,0.25
+Nova Gorica,Slo,,0.50,,0.25,0.50
+Olimpija Ljubljana,Slo,0.50,,,1.00,0.25
+NK Koper,Slo,,0.50,0.50,,
+NK Celje,Slo,0.25,,0.25,,
+Rudar Velenje,Slo,,0.25,,,
+Hibernians FC,Mlt,0.25,0.25,1.00,0.25,1.00
+Linfield Belfast,Nir,0.50,0.50,0.50,0.25,1.00
+FC Vaduz,Lie,0.25,0.50,1.00,0.50,0.50
+FC Santa Coloma,And,0.25,1.00,0.50,0.50,0.50
+Lincoln Red Imps,Gib,,0.50,1.00,1.00,0.25
+Levadia Tallinn,Est,0.50,1.00,0.50,0.50,0.25
+Milsami Orhei,Mol,1.00,,1.50,,0.25
+Stjarnan FC,Isl,,1.50,1.00,,0.25
+Birkirkara,Mlt,1.00,0.25,0.50,1.00,
+Dila Gori,Geo,1.50,,1.00,0.25,
+Alashkert FC,Arm,,,0.50,1.00,1.00
+Ferencváros,Hun,,0.50,0.50,1.00,0.50
+Shirak Gyumri,Arm,1.00,0.25,0.50,0.50,0.25
+Sutjeska Niksic,Mon,1.00,1.00,0.25,,0.25
+Cliftonville,Nir,1.00,1.00,,0.50,
+MFK Ruzomberok,Svk,,,,,1.00
+Spartak Myjava,Svk,,,,0.25,
+MFK Kosice,Svk,,0.50,,,
+FK Senica,Svk,0.50,,,,
+Buducnost Podgorica,Mon,,0.50,0.25,0.50,1.00
+Siroki Brijeg,Bos,1.00,0.50,,0.25,0.50
+Pyunik Yerevan,Arm,0.50,0.25,1.00,0.25,0.25
+Differdange 03,Lux,1.00,0.25,0.50,0.25,0.25
+Suduva Marijampole,Lit,0.25,,,0.25,1.50
+Zaria Balti,Mol,,,,0.25,0.50
+Partizani Tirana,Alb,,,0.25,1.50,0.25
+FK Jelgava,Lat,,0.25,0.50,1.00,0.25
+Dacia Chisinau,Mol,0.50,,0.50,0.25,0.25
+Chikhura Sachkhere,Geo,0.50,1.00,,0.25,0.25
+St. Patrick's Athletic,Irl,0.25,1.00,0.25,0.50,
+Zimbru Chisinau,Mol,,1.50,,0.50,
+Saxan Gagauz Yeri,Mol,,,0.25,,
+FC Tiraspol,Mol,0.25,0.25,,,
+Veris Chisinau,Mol,,0.25,,,
+Spartaks Jurmala,Lat,,,0.50,0.25,1.00
+FK Trakai,Lit,,,0.50,0.25,1.00
+Cork City,Irl,,,0.25,1.00,0.50
+La Fiorita,Sma,0.25,0.50,0.25,0.25,0.50
+Rudar Pljevlja,Mon,0.50,,1.00,0.25,
+HB Torshavn,Far,0.25,1.00,0.25,0.25,
+KF Tirana,Alb,,,,,0.25
+Teuta Durrës,Alb,0.25,,,0.25,
+KF Laçi,Alb,0.25,0.50,0.25,,
+KS Flamurtari Vlorë,Alb,,0.50,,,
+Valur Reykjavik,Isl,,,,0.25,0.50
+Breidablik,Isl,1.00,,,0.25,
+Vikingur Reykjavik,Isl,,,0.25,,
+Fram Reykjavik,Isl,,0.25,,,
+IBV Vestmannaeyjar,Isl,0.50,,,,
+Honvéd Budapest,Hun,0.50,,,,1.00
+Vasas Budapest,Hun,,,,,0.25
+MTK Budapest,Hun,,,0.25,0.50,
+Diósgyöri Miskolc,Hun,,1.00,,,
+ETO Györ,Hun,1.00,0.50,,,
+IFK Mariehamn,Fin,0.25,,,0.25,1.00
+FK Liepaja,Lat,,,,1.00,0.50
+Europa FC,Gib,,0.25,0.25,0.50,0.50
+SJK Seinäjoki,Fin,,,0.25,1.00,0.25
+B36 Torshavn,Far,,0.25,0.50,0.50,0.25
+Pelister Bitola,Mac,,,,,0.25
+Sileks Kratovo,Mac,,,,0.25,
+Renova Dzepciste,Mac,,,0.25,,
+Metalurg Skopje,Mac,0.25,1.00,,,
+Sligo Rovers,Irl,1.00,0.50,,,
+FK Turnovo,Mac,0.50,0.25,,,
+Teteks Tetovo,Mac,0.25,,,,
+VPS Vaasa,Fin,,0.25,0.25,,0.50
+RoPS Rovaniemi,Fin,,0.50,,0.50,
+FC Lahti,Fin,,,0.25,,
+MyPa-47,Fin,,0.50,,,
+Honka Espoo,Fin,0.50,0.25,,,
+Inter Turku,Fin,0.25,,,,
+TPS Turku,Fin,0.25,,,,
+Shamrock Rovers,Irl,,,0.50,0.25,0.50
+Derry City,Irl,0.50,0.50,,,0.25
+Uni College Dublin,Irl,,,0.50,,
+Drogheda United,Irl,0.25,,,,
+Radnik Bijeljina,Bos,,,,0.25,
+Sloboda Tuzla,Bos,,,,0.25,
+Olimpic Sarajevo,Bos,,,0.25,,
+Samtredia,Geo,,,,0.25,1.00
+Flora Tallinn,Est,0.25,,0.25,0.50,0.25
+Tre Penne,Sma,0.50,,,0.50,0.25
+Folgore,Sma,,0.25,0.50,0.25,0.25
+Atlantas Klaipeda,Lit,,0.50,0.25,0.25,0.25
+Daugava Daugavpils,Lat,1.00,0.25,,,
+Ekranas Panevezys,Lit,1.00,0.25,,,
+Skonto Riga,Lat,0.50,,0.50,,
+Daugava Riga,Lat,,0.25,,,
+Metalurgs Liepaja,Lat,0.25,,,,
+FCI Tallinn,Est,,,,0.25,0.50
+Kalev Sillamäe,Est,,0.50,0.25,,
+Santos Tartu,Est,,0.25,,,
+Trans Narva,Est,0.25,,,,
+Kruoja Pakruojis,Lit,0.25,,0.25,,
+Banga Gargzdai,Lit,,0.25,,,
+Bala Town,Wal,0.25,,0.25,0.25,0.25
+UE Santa Coloma,And,0.25,0.25,,0.25,0.25
+Dinamo Batumi,Geo,,,0.25,,0.25
+Torpedo Kutaisi,Geo,0.25,,,,0.25
+Zeta Golubovci,Mon,,,,,0.25
+FC Lusitanos,And,0.50,,0.25,0.25,
+Jeunesse d'Esch,Lux,0.50,0.25,,0.25,
+Bokelj Kotor,Mon,,,,0.25,
+Spartak Tskhinvali,Geo,,,0.25,,
+FC Zestafoni,Geo,,0.50,,,
+Celik Niksic,Mon,0.25,0.25,,,
+Lovcen Cetinje,Mon,,0.25,,,
+Sioni Bolnisi,Geo,,0.25,,,
+EB Streymur,Far,1.00,,,,
+Gandzasar Kapan,Arm,0.25,,,,0.25
+Banants Yerevan,Arm,,0.50,,0.25,
+Ulisses Yerevan,Arm,,,0.25,,
+Mika Ashtarak,Arm,0.25,0.25,,,
+Balzan FC,Mlt,,,0.25,0.25,0.25
+Floriana,Mlt,,,,,0.25
+Sliema Wanderers,Mlt,0.25,0.25,,,
+Progrès Niederkorn,Lux,,,0.25,,0.50
+Ballymena United,Nir,,,,,0.25
+Coleraine,Nir,,,,,0.25
+Glenavon,Nir,,0.25,0.25,0.25,
+Glentoran,Nir,0.25,,0.25,,
+Connah's Quay,Wal,,,,0.50,0.25
+Bangor City,Wal,,0.25,,,0.25
+Llandudno FC,Wal,,,,0.25,
+Newtown,Wal,,,0.50,,
+Airbus UK Broughton,Wal,0.25,0.25,0.25,,
+Aberystwyth Town,Wal,,0.25,,,
+Prestatyn Town,Wal,0.50,,,,
+NSI Runavik,Far,,,0.25,0.25,0.25
+Sant Julià,And,,0.25,0.25,,0.25
+KI Klaksvik,Far,,,,,0.25
+IF Fuglafjørdur,Far,0.25,0.25,,,
+St Joseph's FC,Gib,,,,,0.25
+Trepça'89,Kos,,,,,0.50
+Libertas,Sma,0.25,0.25,,,
+FC Prishtina,Kos,,,,,0.25
+Juvenes Dogana,Sma,,,0.25,,
