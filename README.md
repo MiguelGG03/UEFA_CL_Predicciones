@@ -39,3 +39,7 @@ Hay un problema dentro de las predicciones que he recibido con el árbol de deci
 - Estos son los datos obtenidos sin la predicción: ![Hasta_22_23](docs/images/hasta22_23.png)
 
 - Estos son los datos obtenidos con la predicción: ![Predicción](docs/images/predicciones_incluidas.png)
+
+Es evidente que las predicciones no son my buenas, porque son casi una réplica identica de los resultados obtenidos en la última edición de la champions. Por lo que sería un acierto proporcionar más datos al modelo, como: partidos de ediciones anteriores, conocimiento sobre los resultados presentes y un cuadro de cuartos de finales.
+
+Aparte, podríamos usar otros modelos de entrenamiento que funciones mejor para datos no discretos, como un "Random Forest", "Vectores de Soporte (SVM)" o " Gradiente Boosting como XGBoost, LightGBM, y CatBoost".
