@@ -42,4 +42,6 @@ Hay un problema dentro de las predicciones que he recibido con el árbol de deci
 
 Es evidente que las predicciones no son my buenas, porque son casi una réplica identica de los resultados obtenidos en la última edición de la champions. Por lo que sería un acierto proporcionar más datos al modelo, como: partidos de ediciones anteriores, conocimiento sobre los resultados presentes y un cuadro de cuartos de finales.
 
+Es importante tener en cuenta que los datos no reflejan la situación actual futbolística, ya que el impacto de los jugadores sobre el equipo en el que están. Porque no es relevante saber que Cristiano Ronaldo ganó tres Champions seguidas en el Real Madrid hace 8 años, sabiendo que ni Cristiano sigue en el Madrid, ni es igual de influyente que era hace 8 años.
+
 Aparte, podríamos usar otros modelos de entrenamiento que funciones mejor para datos no discretos, como un "Random Forest", "Vectores de Soporte (SVM)" o " Gradiente Boosting como XGBoost, LightGBM, y CatBoost".
