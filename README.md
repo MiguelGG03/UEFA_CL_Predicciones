@@ -45,3 +45,7 @@ Es evidente que las predicciones no son my buenas, porque son casi una réplica 
 Es importante tener en cuenta que los datos no reflejan la situación actual futbolística, ya que el impacto de los jugadores sobre el equipo en el que están. Porque no es relevante saber que Cristiano Ronaldo ganó tres Champions seguidas en el Real Madrid hace 8 años, sabiendo que ni Cristiano sigue en el Madrid, ni es igual de influyente que era hace 8 años.
 
 Aparte, podríamos usar otros modelos de entrenamiento que funciones mejor para datos no discretos, como un "Random Forest", "Vectores de Soporte (SVM)" o " Gradiente Boosting como XGBoost, LightGBM, y CatBoost".
+
+## Lección de la entrega
+
+La lección que se saca en claro de esta entrega, es que el sesgo es una parte __fundamental__ dentro de el entrenamiento de modelos de inteligencia artificial, porque en los datos que he utilizado, no se miden cosas cruciales para realmente poder predecir quién ganará la champions.
