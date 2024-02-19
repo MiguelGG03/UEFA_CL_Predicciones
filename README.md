@@ -30,3 +30,12 @@ Las predicciones que he obtenido en base a un árbol de regresión para la nueva
 |PSV Eindhoven      	|11.0   |
 |FC Barcelona	        |9.0    |
 |Lazio	                |6.0    |
+
+
+## Análisis de los resultados obtenidos
+
+Hay un problema dentro de las predicciones que he recibido con el árbol de decisión.
+
+- Estos son los datos obtenidos sin la predicción: ![Hasta_22_23](docs/images/hasta22_23.png)
+
+- Estos son los datos obtenidos con la predicción: ![Predicción](docs/images/predicciones_incluidas.png)
