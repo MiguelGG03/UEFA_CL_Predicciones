@@ -9,4 +9,4 @@ porteros_23_24 = ["Gianluigi Donnarumma", "Marc-André ter Stegen", "Jan Oblak",
 goolkeeping = goolkeeping[goolkeeping['Player'].isin(porteros_23_24)]
 # crear carpeta, si existe pasar
 os.makedirs(r'.\docs\data\clear', exist_ok=True)
-goolkeeping.to_csv(r'.\docs\data\clear\ucl_advanced_goalkeeping.csv', index=False)
+goolkeeping.to_csv(r'.\docs\data\clear\goalkeepers.csv', index=False)
