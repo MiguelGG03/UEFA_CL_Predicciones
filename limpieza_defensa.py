@@ -2,7 +2,10 @@ import pandas as pd
 import os
 
 defenders = pd.read_csv(r'.\docs\data\PlayerStats_22_23\defensive_actions.csv')
-porteros_23_24 = ["Gianluigi Donnarumma", "Marc-André ter Stegen", "Jan Oblak", "Andriy Lunin", "Manuel Neuer", "Gregor Kobel", "Ederson"]
+# Atleti
+# Real Madrid
+defensas_23_24 = ["José María Giménez","Nahuel Molina","Mario Hermoso","Stefan Savić"
+                  "Éder Militão","Dani Carvajal","Ferland Mendy","Antonio Rüdiger"]
 
 
 # Si el portero no está en la lista de porteros, se elimina esa fila
