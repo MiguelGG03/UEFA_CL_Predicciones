@@ -1,19 +1,12 @@
 import pandas as pd
 import os
 
-defenders = pd.read_csv(r'.\docs\data\PlayerStats_22_23\defensive_actions.csv')
-# Atleti
-# Real Madrid
-defensas_23_24 = ["José María Giménez","Nahuel Molina","Mario Hermoso","Stefan Savić"
-                  "Éder Militão","Dani Carvajal","Ferland Mendy","Antonio Rüdiger"]
+df = pd.read_csv(r'.\docs\data\PlayerStats_22_23\ucl_shooting.csv')
 
-#Equipos
-
-equipos = ["Atletico Madrid", "Real Madrid","Barcelona","Manchester City","Arsenal",]
+equipos = ['Real Madrid','Atletico','Paris S-G','Manchester City','Arsenal','Dortmund','Barcelona','Bayern Munich']
 
 
-# Si el portero no está en la lista de defensas, se elimina esa fila
-defenders = defenders[defenders['Player'].isin(defensas_23_24)]
+df = df[df['Club'].isin(equipos)]
 # crear carpeta, si existe pasar
-os.makedirs(r'.\docs\data\clear\goalkeeper', exist_ok=True)
-defenders.to_csv(r'.\docs\data\clear\defensive_actions.csv', index=False)
+os.makedirs(r'.\docs\data\clear\defenders', exist_ok=True)
+df.to_csv(r'.\docs\data\clear\strikers\shooting.csv', index=False)
