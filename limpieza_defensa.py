@@ -11,4 +11,4 @@ equipos = ['Real Madrid','Atletico','Paris S-G','Manchester City']
 df = df[df['Club'].isin(equipos)]
 # crear carpeta, si existe pasar
 os.makedirs(r'.\docs\data\clear\defenders', exist_ok=True)
-df.to_csv(r'.\docs\data\clear\defensive_actions.csv', index=False)
+df.to_csv(r'.\docs\data\clear\defenders\defensive_actions.csv', index=False)
