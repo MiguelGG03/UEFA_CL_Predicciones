@@ -1,0 +1,67 @@
+Player,Nationality,Position,Club,Age,Born,90s,No. of players tackled,Tackles won,Tackles (Def 3rd),Tackles (Mid 3rd),Tackles (Att 3rd),No. of dribblers tackled,Dribbles challenged (total),% of dribblers successfully tackled,challenges lost,Blocks,Shots blocked,Passes blocked,Interceptions,Tackles + internceptions,Clearances,Errors
+Manuel Akanji, SUI,DF,Manchester City,27,1995,10.5,27,16,10,15,2,14,26,53.8,12,14,2,12,9,36,20,1
+Nathan Aké, NED,DF,Manchester City,27,1995,6.8,12,6,3,6,3,3,5,60.0,2,2,1,1,7,19,13,0
+David Alaba, AUT,DF,Real Madrid,30,1992,7.9,8,3,2,5,1,5,12,41.7,7,12,8,4,7,15,12,0
+Julián Álvarez, ARG,FW,Manchester City,22,2000,5.3,5,3,0,2,3,0,5,0.0,5,1,0,1,2,7,1,0
+Marco Asensio, ESP,"FW,MF",Real Madrid,26,1996,3.6,1,0,0,1,0,1,2,50.0,1,4,0,4,5,6,3,0
+Karim Benzema, FRA,FW,Real Madrid,34,1987,8.3,2,2,1,0,1,0,1,0.0,1,5,0,5,0,2,8,0
+Juan Bernat, ESP,DF,Paris S-G,29,1993,3.1,11,7,9,1,1,7,10,70.0,3,3,1,2,1,12,2,0
+Eduardo Camavinga, FRA,"MF,DF",Real Madrid,19,2002,8.0,26,17,17,6,3,11,32,34.4,21,12,0,12,6,32,11,0
+João Cancelo, POR,DF,Manchester City,28,1994,4.2,10,7,3,5,2,4,8,50.0,4,3,0,3,3,13,3,0
+Dani Carvajal, ESP,DF,Real Madrid,30,1992,9.7,18,11,10,6,2,10,19,52.6,9,15,4,11,7,25,20,0
+Dani Ceballos, ESP,MF,Real Madrid,25,1996,1.0,4,1,0,4,0,1,1,100.0,0,6,0,6,0,4,0,0
+El Chadaille Bitshiabu, FRA,DF,Paris S-G,17,2005,0.5,1,1,1,0,0,0,0,,0,1,1,0,0,1,2,0
+Thibaut Courtois, BEL,GK,Real Madrid,30,1992,10.0,1,1,1,0,0,0,2,0.0,2,0,0,0,0,1,3,1
+Kevin De Bruyne, BEL,MF,Manchester City,31,1991,8.0,9,3,1,5,3,2,9,22.2,7,4,0,4,2,11,5,0
+Rúben Dias, POR,DF,Manchester City,25,1997,11.7,26,18,13,11,2,15,18,83.3,3,14,8,6,7,33,25,0
+Gianluigi Donnarumma, ITA,GK,Paris S-G,23,1999,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,7,1
+Ederson, BRA,GK,Manchester City,28,1993,11.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0
+Hugo Ekitike, FRA,"MF,FW",Paris S-G,20,2002,0.7,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+Phil Foden, ENG,"MF,FW",Manchester City,22,2000,4.3,5,4,2,1,2,2,3,66.7,1,3,0,3,5,10,0,0
+Sergio Gómez, ESP,"DF,MF",Manchester City,21,2000,3.4,4,1,2,2,0,1,2,50.0,1,4,0,4,2,6,2,0
+Jack Grealish, ENG,FW,Manchester City,26,1995,10.4,8,5,4,3,1,5,13,38.5,8,10,3,7,4,12,6,0
+İlkay Gündoğan, GER,MF,Manchester City,31,1990,11.0,12,8,5,4,3,4,12,33.3,8,8,1,7,7,19,6,0
+Erling Haaland, NOR,FW,Manchester City,22,2000,9.3,1,0,0,1,0,1,2,50.0,1,5,0,5,2,3,3,0
+Achraf Hakimi, MAR,"DF,MF",Paris S-G,23,1998,6.4,9,6,4,4,1,3,12,25.0,9,2,0,2,8,17,7,0
+Eden Hazard, BEL,"FW,MF",Real Madrid,31,1991,1.5,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0
+Vinicius Júnior, BRA,FW,Real Madrid,22,2000,10.8,10,7,7,3,0,4,12,33.3,8,8,0,8,1,11,1,0
+Presnel Kimpembe, FRA,DF,Paris S-G,26,1995,1.6,2,2,1,1,0,0,0,,0,1,0,1,2,4,2,0
+Toni Kroos, GER,MF,Real Madrid,32,1990,9.4,26,16,11,12,3,11,18,61.1,7,7,2,5,9,35,2,0
+Aymeric Laporte, ESP,DF,Manchester City,28,1994,3.2,0,0,0,0,0,0,2,0.0,2,0,0,0,3,3,4,0
+Rico Lewis, ENG,DF,Manchester City,17,2004,1.3,1,1,0,1,0,0,0,,0,2,1,1,0,1,0,0
+Andriy Lunin, UKR,GK,Real Madrid,23,1999,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Riyad Mahrez, ALG,"FW,MF",Manchester City,31,1991,5.6,9,5,1,3,5,5,9,55.6,4,1,0,1,1,10,1,0
+Mariano, DOM,FW,Real Madrid,28,1993,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Marquinhos, BRA,DF,Paris S-G,28,1994,7.3,5,3,2,3,0,4,7,57.1,3,7,4,3,3,8,20,0
+Kylian Mbappé, FRA,FW,Paris S-G,23,1998,7.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,3,0
+Nuno Mendes, POR,"DF,MF",Paris S-G,20,2002,4.9,11,7,6,4,1,8,18,44.4,10,13,1,12,1,12,7,0
+Ferland Mendy, FRA,DF,Real Madrid,27,1995,3.9,3,2,2,0,1,3,3,100.0,0,1,0,1,3,6,4,0
+Lionel Messi, ARG,"FW,MF",Paris S-G,35,1987,6.8,4,4,1,2,1,0,3,0.0,3,3,0,3,3,7,0,0
+Éder Militão, BRA,DF,Real Madrid,24,1998,8.3,10,5,7,3,0,8,13,61.5,5,11,7,4,9,19,37,0
+Luka Modrić, CRO,MF,Real Madrid,36,1985,8.3,4,2,2,1,1,2,5,40.0,3,2,1,1,7,11,7,0
+Nordi Mukiele, FRA,"DF,MF",Paris S-G,24,1997,1.2,1,1,0,1,0,1,1,100.0,0,3,1,2,1,2,2,0
+Nacho, ESP,DF,Real Madrid,32,1990,4.9,9,5,5,4,0,4,12,33.3,8,5,4,1,17,26,16,0
+Neymar, BRA,"MF,FW",Paris S-G,30,1992,6.0,3,1,1,0,2,2,8,25.0,6,1,0,1,2,5,2,0
+Stefan Ortega, GER,GK,Manchester City,29,1992,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+Cole Palmer, ENG,"MF,FW",Manchester City,20,2002,1.5,1,0,0,1,0,1,1,100.0,0,3,0,3,0,1,0,0
+Danilo Pereira, POR,"DF,MF",Paris S-G,30,1991,5.0,10,7,7,3,0,7,8,87.5,1,3,2,1,6,16,12,0
+Kalvin Phillips, ENG,MF,Manchester City,26,1995,0.5,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+Sergio Ramos, ESP,DF,Paris S-G,36,1986,8.0,9,5,3,6,0,7,11,63.6,4,11,6,5,11,20,25,0
+Rodri, ESP,MF,Manchester City,26,1996,11.1,24,15,13,9,2,12,17,70.6,5,11,3,8,13,37,9,1
+Rodrygo, BRA,FW,Real Madrid,21,2001,9.1,7,3,3,3,1,3,8,37.5,5,13,4,9,9,16,6,0
+Antonio Rüdiger, GER,DF,Real Madrid,29,1993,7.5,10,6,5,5,0,6,6,100.0,0,7,2,5,6,16,26,0
+Fabián Ruiz Peña, ESP,MF,Paris S-G,26,1996,2.6,5,1,2,1,2,3,9,33.3,6,3,0,3,1,6,4,0
+Renato Sanches, POR,MF,Paris S-G,24,1997,1.6,3,0,2,1,0,2,3,66.7,1,3,1,2,1,4,0,0
+Pablo Sarabia, ESP,MF,Paris S-G,30,1992,1.0,1,1,1,0,0,1,1,100.0,0,1,0,1,0,1,0,0
+Bernardo Silva, POR,"FW,MF",Manchester City,27,1994,10.1,19,10,4,8,7,10,32,31.3,22,11,0,11,9,28,5,0
+Carlos Soler, ESP,MF,Paris S-G,25,1997,1.7,4,4,2,0,2,1,2,50.0,1,1,0,1,3,7,1,0
+John Stones, ENG,"MF,DF",Manchester City,28,1994,7.6,2,2,2,0,0,1,3,33.3,2,6,4,2,4,6,10,0
+Aurélien Tchouaméni, FRA,MF,Real Madrid,22,2000,4.8,10,7,4,5,1,5,5,100.0,0,5,0,5,7,17,3,0
+Jesús Vallejo, ESP,DF,Real Madrid,25,1997,0.2,2,2,1,0,1,2,2,100.0,0,1,1,0,0,2,2,0
+Federico Valverde, URU,"MF,FW",Real Madrid,24,1998,10.7,18,7,6,7,5,9,20,45.0,11,17,1,16,14,32,13,0
+Lucas Vázquez, ESP,DF,Real Madrid,31,1991,2.2,4,1,1,3,0,0,4,0.0,4,1,0,1,3,7,4,0
+Marco Verratti, ITA,MF,Paris S-G,29,1992,6.9,27,18,12,12,3,9,28,32.1,19,13,5,8,6,33,0,2
+Vitinha, POR,MF,Paris S-G,22,2000,6.5,8,6,3,4,1,1,11,9.1,10,8,1,7,13,21,1,0
+Kyle Walker, ENG,"DF,FW",Manchester City,32,1990,3.1,9,7,4,3,2,7,9,77.8,2,1,1,0,3,12,8,0
+Josh Wilson-Esbrand, ENG,DF,Manchester City,19,2002,0.5,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+Warren Zaire-Emery, FRA,MF,Paris S-G,16,2006,0.9,2,2,1,1,0,2,5,40.0,3,0,0,0,0,2,0,0
