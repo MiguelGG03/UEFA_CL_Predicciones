@@ -8,5 +8,5 @@ equipos = ['Real Madrid','Atletico','Paris S-G','Manchester City','Arsenal','Dor
 
 df = df[df['Club'].isin(equipos)]
 # crear carpeta, si existe pasar
-os.makedirs(r'.\docs\data\clear\defenders', exist_ok=True)
+os.makedirs(r'.\docs\data\clear\strikers', exist_ok=True)
 df.to_csv(r'.\docs\data\clear\strikers\shooting.csv', index=False)
