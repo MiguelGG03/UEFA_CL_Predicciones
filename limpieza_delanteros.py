@@ -16,13 +16,13 @@ def limpieza(nombre_archivo:str):
 
     df = df[df['Club'].isin(equipos)]
 
-    
+    nombre_final = no_ucl_in_name(nombre_archivo)
 
     os.makedirs(r'.\docs\data\clear\strikers', exist_ok=True)
     
-    #df.to_csv(r'.\docs\data\clear\strikers\shooting.csv'.format(nombre_final), index=False)
+    df.to_csv(r'.\docs\data\clear\strikers\{}.csv'.format(nombre_final), index=False)
 
-#limpieza(input('Nombre del archivo: '))
+limpieza(input('Nombre del archivo: '))
 
 
 
