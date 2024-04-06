@@ -18,9 +18,9 @@ def limpieza(nombre_archivo:str):
 
     nombre_final = no_ucl_in_name(nombre_archivo)
 
-    os.makedirs(r'.\docs\data\clear\defenders', exist_ok=True)
+    os.makedirs(r'.\docs\data\clear\midfielders', exist_ok=True)
     
-    df.to_csv(r'.\docs\data\clear\defenders\{}.csv'.format(nombre_final), index=False)
+    df.to_csv(r'.\docs\data\clear\midfielders\{}.csv'.format(nombre_final), index=False)
 
 limpieza(input('Nombre del archivo: '))
 

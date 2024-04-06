@@ -1,12 +1,29 @@
 import pandas as pd
 import os
 
-goolkeeping = pd.read_csv(r'.\docs\data\PlayerStats_22_23\ucl_advanced_goalkeeping.csv')
-porteros_23_24 = ["Gianluigi Donnarumma", "Marc-André ter Stegen", "Jan Oblak", "Andriy Lunin", "Manuel Neuer", "Gregor Kobel", "Ederson"]
+def no_ucl_in_name(nombre_archivo:str):
+    nombre_final = nombre_archivo.split('_')
+    nombre_final.remove('ucl')
+    nombre_final = '_'.join(nombre_final)
+    return nombre_final
 
 
-# Si el portero no está en la lista de porteros, se elimina esa fila
-goolkeeping = goolkeeping[goolkeeping['Player'].isin(porteros_23_24)]
-# crear carpeta, si existe pasar
-os.makedirs(r'.\docs\data\clear\goalkeeper', exist_ok=True)
-goolkeeping.to_csv(r'.\docs\data\clear\goalkeepers_advanced.csv', index=False)
+def limpieza(nombre_archivo:str):
+    df = pd.read_csv(r'.\docs\data\PlayerStats_22_23\{}.csv'.format(nombre_archivo))
+
+    equipos = ['Real Madrid','Atletico','Paris S-G','Manchester City','Arsenal','Dortmund','Barcelona','Bayern Munich']
+
+
+    df = df[df['Club'].isin(equipos)]
+
+    nombre_final = no_ucl_in_name(nombre_archivo)
+
+    os.makedirs(r'.\docs\data\clear\goalkeeper', exist_ok=True)
+    
+    df.to_csv(r'.\docs\data\clear\goalkeeper\{}.csv'.format(nombre_final), index=False)
+
+limpieza(input('Nombre del archivo: '))
+
+
+
+
