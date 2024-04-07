@@ -23,7 +23,3 @@ def limpieza(nombre_archivo:str):
     df.to_csv(r'.\docs\data\clear\defenders\{}.csv'.format(nombre_final), index=False)
 
 limpieza(input('Nombre del archivo: '))
-
-
-
-
