@@ -1,0 +1,49 @@
+Player,Nationality,Position,Club,Age,Born,90s,Goals,Shot Total,Shots on target,Shots on target %,Shots Total/90,Shots on target/90,Goals/shot,Goals/shot on target,Avg shot distance,Free kicks,Penalty kicks ,Penalty kicks attempted,Expected goal,Non-penalty expected goals,non-penalty expected goals/shot,Goals minus expected goals,Non-penalty goals minus non-penalty expected goals,Unnamed: 24
+Karim Adeyemi, GER,"FW,MF",Dortmund,20,2002,4.2,2,11,3,27.3,2.63,0.72,0.18,0.67,16.9,0,0,0,1.8,1.8,0.16,0.2,0.2,
+Manuel Akanji, SUI,DF,Manchester City,27,1995,10.5,1,7,4,57.1,0.67,0.38,0.14,0.25,16.4,0,0,0,0.9,0.9,0.13,0.1,0.1,
+Marcos Alonso, ESP,DF,Barcelona,31,1990,4.5,1,3,1,33.3,0.67,0.22,0.33,1.0,13.3,0,0,0,1.0,1.0,0.34,0.0,0.0,
+Julián Álvarez, ARG,FW,Manchester City,22,2000,5.3,3,14,6,42.9,2.66,1.14,0.21,0.5,13.7,0,0,0,2.4,2.4,0.17,0.6,0.6,
+Marco Asensio, ESP,"FW,MF",Real Madrid,26,1996,3.6,3,12,5,41.7,3.33,1.39,0.25,0.6,18.8,0,0,0,0.9,0.9,0.08,2.1,2.1,
+Jude Bellingham, ENG,MF,Dortmund,19,2003,7.0,4,11,4,36.4,1.57,0.57,0.36,1.0,14.6,0,0,0,1.3,1.3,0.12,2.7,2.7,
+Karim Benzema, FRA,FW,Real Madrid,34,1987,8.3,4,35,18,51.4,4.23,2.18,0.11,0.22,14.7,0,0,0,5.1,5.1,0.15,-1.1,-1.1,
+Julian Brandt, GER,"MF,FW",Dortmund,26,1996,5.3,1,12,3,25.0,2.27,0.57,0.08,0.33,19.0,1,0,0,0.8,0.8,0.07,0.2,0.2,
+Kingsley Coman, FRA,"FW,DF",Bayern Munich,26,1996,5.9,1,14,5,35.7,2.36,0.84,0.07,0.2,16.7,0,0,0,1.0,1.0,0.07,0.0,0.0,
+Kevin De Bruyne, BEL,MF,Manchester City,31,1991,8.0,2,16,7,43.8,2.01,0.88,0.13,0.29,23.6,2,0,0,1.3,1.3,0.08,0.7,0.7,
+Ousmane Dembélé, FRA,FW,Barcelona,25,1997,4.6,1,10,5,50.0,2.18,1.09,0.1,0.2,20.4,0,0,0,1.1,1.1,0.11,-0.1,-0.1,
+Rúben Dias, POR,DF,Manchester City,25,1997,11.7,1,13,5,38.5,1.12,0.43,0.08,0.2,11.3,0,0,0,1.7,1.7,0.13,-0.7,-0.7,
+Phil Foden, ENG,"MF,FW",Manchester City,22,2000,4.3,1,9,5,55.6,2.11,1.17,0.11,0.2,16.1,0,0,0,1.0,1.0,0.11,0.0,0.0,
+Serge Gnabry, GER,"FW,MF",Bayern Munich,27,1995,3.8,2,10,4,40.0,2.62,1.05,0.2,0.5,19.3,1,0,0,1.3,1.3,0.13,0.7,0.7,
+Leon Goretzka, GER,MF,Bayern Munich,27,1995,6.7,2,16,7,43.8,2.38,1.04,0.13,0.29,18.7,0,0,0,1.8,1.8,0.12,0.2,0.2,
+Raphaël Guerreiro, POR,DF,Dortmund,28,1993,5.3,2,6,3,50.0,1.13,0.56,0.33,0.67,22.8,0,0,0,0.7,0.7,0.12,1.3,1.3,
+İlkay Gündoğan, GER,MF,Manchester City,31,1990,11.0,1,19,8,42.1,1.72,0.72,0.05,0.13,19.4,1,0,0,1.6,1.6,0.08,-0.6,-0.6,
+Erling Haaland, NOR,FW,Manchester City,22,2000,9.3,12,39,25,64.1,4.17,2.68,0.28,0.44,12.1,0,1,2,10.7,9.1,0.23,1.3,1.9,
+Eden Hazard, BEL,"FW,MF",Real Madrid,31,1991,1.5,1,2,1,50.0,1.36,0.68,0.5,1.0,6.9,0,0,0,0.9,0.9,0.44,0.1,0.1,
+Thorgan Hazard, BEL,"DF,FW",Dortmund,29,1993,2.2,1,4,1,25.0,1.8,0.45,0.25,1.0,21.2,1,0,0,0.3,0.3,0.06,0.7,0.7,
+Lucas Hernández, FRA,DF,Bayern Munich,26,1996,1.9,1,1,1,100.0,0.52,0.52,1.0,1.0,3.3,0,0,0,0.4,0.4,0.36,0.6,0.6,
+Vinicius Júnior, BRA,FW,Real Madrid,22,2000,10.8,7,38,19,50.0,3.52,1.76,0.18,0.37,13.6,0,0,0,6.5,6.5,0.17,0.5,0.5,
+Franck Kessié, CIV,MF,Barcelona,25,1996,3.0,1,3,2,66.7,0.99,0.66,0.33,0.5,8.8,0,0,0,0.3,0.3,0.09,0.7,0.7,
+Joshua Kimmich, GER,MF,Bayern Munich,27,1995,9.0,1,21,9,42.9,2.33,1.0,0.0,0.0,28.3,4,1,1,1.7,0.9,0.04,-0.7,-0.9,
+Robert Lewandowski, POL,FW,Barcelona,33,1988,4.9,5,24,10,41.7,4.9,2.04,0.21,0.5,14.3,2,0,0,3.2,3.2,0.13,1.8,1.8,
+Rico Lewis, ENG,DF,Manchester City,17,2004,1.3,1,2,1,50.0,1.51,0.76,0.5,1.0,21.1,0,0,0,0.3,0.3,0.14,0.7,0.7,
+Riyad Mahrez, ALG,"FW,MF",Manchester City,31,1991,5.6,3,9,4,44.4,1.6,0.71,0.22,0.5,23.0,1,1,3,3.5,1.1,0.12,-0.5,0.9,
+Sadio Mané, SEN,FW,Bayern Munich,30,1992,6.1,3,15,10,66.7,2.45,1.63,0.2,0.3,14.3,0,0,0,1.9,1.9,0.13,1.1,1.1,
+Eric Maxim Choupo-Moting, CMR,FW,Bayern Munich,33,1989,4.8,4,15,7,46.7,3.1,1.45,0.27,0.57,12.6,0,0,0,2.6,2.6,0.17,1.4,1.4,
+Kylian Mbappé, FRA,FW,Paris S-G,23,1998,7.2,7,25,14,56.0,3.46,1.94,0.24,0.43,16.1,0,1,1,3.6,2.8,0.11,3.4,3.2,
+Nuno Mendes, POR,"DF,MF",Paris S-G,20,2002,4.9,1,1,1,100.0,0.21,0.21,1.0,1.0,14.1,0,0,0,0.2,0.2,0.16,0.8,0.8,
+Lionel Messi, ARG,"FW,MF",Paris S-G,35,1987,6.8,4,23,8,34.8,3.38,1.17,0.17,0.5,18.8,4,0,0,2.6,2.6,0.11,1.4,1.4,
+Éder Militão, BRA,DF,Real Madrid,24,1998,8.3,1,4,1,25.0,0.48,0.12,0.25,1.0,22.6,0,0,0,0.5,0.5,0.12,0.5,0.5,
+Luka Modrić, CRO,MF,Real Madrid,36,1985,8.3,2,6,2,33.3,0.73,0.24,0.17,0.5,21.4,0,1,1,1.3,0.5,0.09,0.7,0.5,Matches
+Thomas Müller, GER,"MF,FW",Bayern Munich,32,1989,4.1,1,9,4,44.4,2.21,0.98,0.11,0.25,13.6,0,0,0,1.3,1.3,0.15,-0.3,-0.3,Matches
+Neymar, BRA,"MF,FW",Paris S-G,30,1992,6.0,2,18,6,33.3,3.01,1.0,0.11,0.33,18.9,4,0,0,2.1,2.1,0.12,-0.1,-0.1,Matches
+Benjamin Pavard, FRA,DF,Bayern Munich,26,1996,6.6,2,6,3,50.0,0.91,0.46,0.33,0.67,9.7,0,0,0,1.1,1.1,0.18,0.9,0.9,Matches
+Marco Reus, GER,"MF,FW",Dortmund,33,1989,2.9,1,6,2,33.3,2.06,0.69,0.17,0.5,19.2,2,0,0,0.9,0.9,0.14,0.1,0.1,Matches
+Rodri, ESP,MF,Manchester City,26,1996,11.1,2,17,4,23.5,1.54,0.36,0.12,0.5,19.1,0,0,0,0.9,0.9,0.05,1.1,1.1,Matches
+Rodrygo, BRA,FW,Real Madrid,21,2001,9.1,5,23,9,39.1,2.53,0.99,0.13,0.33,15.0,1,2,2,4.5,3.1,0.14,0.5,-0.1,Matches
+Antonio Rüdiger, GER,DF,Real Madrid,29,1993,7.5,1,6,1,16.7,0.8,0.13,0.17,1.0,20.0,0,0,0,0.3,0.3,0.05,0.7,0.7,Matches
+Leroy Sané, GER,"FW,MF",Bayern Munich,26,1996,6.1,4,18,9,50.0,2.93,1.47,0.22,0.44,20.3,2,0,0,2.5,2.5,0.14,1.5,1.5,Matches
+Bernardo Silva, POR,"FW,MF",Manchester City,27,1994,10.1,3,8,5,62.5,0.79,0.49,0.38,0.6,13.5,0,0,0,1.1,1.1,0.14,1.9,1.9,Matches
+Carlos Soler, ESP,MF,Paris S-G,25,1997,1.7,1,2,1,50.0,1.16,0.58,0.5,1.0,15.1,0,0,0,0.3,0.3,0.13,0.7,0.7,Matches
+John Stones, ENG,"MF,DF",Manchester City,28,1994,7.6,1,3,1,33.3,0.39,0.13,0.33,1.0,23.5,0,0,0,0.1,0.1,0.03,0.9,0.9,Matches
+Pablo Torre, ESP,"MF,FW",Barcelona,19,2003,1.1,1,1,1,100.0,0.95,0.95,1.0,1.0,14.9,0,0,0,0.4,0.4,0.39,0.6,0.6,Matches
+Ferrán Torres, ESP,"FW,MF",Barcelona,22,2000,2.1,3,7,3,42.9,3.35,1.44,0.43,1.0,13.5,0,0,0,1.3,1.3,0.18,1.7,1.7,Matches
+Federico Valverde, URU,"MF,FW",Real Madrid,24,1998,10.7,2,24,8,33.3,2.23,0.74,0.08,0.25,22.3,1,0,0,1.7,1.7,0.07,0.3,0.3,Matches
