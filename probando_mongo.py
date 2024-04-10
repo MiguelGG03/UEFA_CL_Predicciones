@@ -1,4 +1,4 @@
-from probando_mongo import MongoClient
+from pymongo import MongoClient
 import datetime
 
 client = MongoClient('localhost', 27017)
