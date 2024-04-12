@@ -1,20 +1,19 @@
 from pymongo import MongoClient
-import datetime
+import pandas as pd
 
 client = MongoClient('localhost', 27017)
 
-db = client['test-database']
+db = client['uefa-database']
 
-collection = db['test-collection']
+df = pd.read_csv('docs\data\clear\goalkeeper\goalkeeper.csv')
 
+teams = df['Club'].unique().tolist()
 
-post = {
-    "author": "Mike",
-    "text": "My first blog post!",
-    "tags": ["mongodb", "python", "pymongo"],
-    "date": datetime.datetime.now(tz=datetime.timezone.utc),
-}
+teams.append("Arsenal")
 
-posts = collection
-post_id = posts.insert_one(post).inserted_id
-post_id
+for team in teams:
+    temp = db["{team}".format(team=team)]
+    
+madrid = db["Real Madrid"]
+
+madrid.insert_one({})
