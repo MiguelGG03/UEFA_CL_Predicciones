@@ -1,0 +1,50 @@
+,Player,Nationality,Position,Club,Age,Born,MP,Starts,Min,90s,GA90,SoTA,Save%,W,D,L,CS%,PKatt,PKA,PKsv,PKm
+0,Antonio Adán, ESP,GK,Sporting CP,35,1987,5,5,382,4.2,1.18,21,81.0,2,1,2,40.0,1,1,0,0
+1,Alisson, BRA,GK,Liverpool,29,1992,8,8,720,8.0,1.5,28,60.7,5,0,3,37.5,2,1,1,0
+2,Kepa Arrizabalaga, ESP,GK,Chelsea,27,1994,9,9,810,9.0,0.89,35,77.1,4,1,4,33.3,0,0,0,0
+3,Janis Blaswich, GER,GK,RB Leipzig,31,1991,6,5,528,5.9,1.87,31,71.0,3,1,1,40.0,2,2,0,0
+4,Yassine Bounou, MAR,GK,Sevilla,31,1991,4,4,360,4.0,3.0,26,53.8,0,1,3,0.0,0,0,0,0
+5,Josh Cohen, USA,GK,Maccabi Haifa,29,1992,6,6,540,6.0,3.5,42,50.0,1,0,5,16.7,0,0,0,0
+6,Diogo Costa, POR,GK,Porto,22,1999,8,8,720,8.0,1.0,38,81.6,4,1,3,50.0,4,1,3,0
+7,Thibaut Courtois, BEL,GK,Real Madrid,30,1992,10,10,900,10.0,1.1,53,79.2,7,1,2,50.0,1,0,1,0
+8,Marko Dmitrović, SRB,GK,Sevilla,30,1992,2,2,180,2.0,0.0,4,100.0,1,1,0,100.0,0,0,0,0
+9,Gianluigi Donnarumma, ITA,GK,Paris S-G,23,1999,8,8,720,8.0,1.25,35,74.3,4,2,2,0.0,1,1,0,0
+10,Ederson, BRA,GK,Manchester City,28,1993,11,11,990,11.0,0.36,31,90.3,7,4,0,63.6,1,1,0,0
+11,Fraser Forster, ENG,GK,Tottenham,34,1988,2,2,180,2.0,0.5,7,85.7,0,1,1,50.0,0,0,0,0
+12,Kamil Grabara, POL,GK,FC Copenhagen,23,1999,4,4,360,4.0,2.25,32,75.0,0,2,2,25.0,2,1,1,0
+13,Ivo Grbić, CRO,GK,Atlético Madrid,26,1996,1,1,90,1.0,2.0,5,60.0,0,0,1,0.0,0,0,0,0
+14,Péter Gulácsi, HUN,GK,RB Leipzig,32,1990,3,3,192,2.1,2.81,8,25.0,1,0,2,0.0,0,0,0,0
+15,Joe Hart, ENG,GK,Celtic,35,1987,6,6,540,6.0,2.5,31,58.1,0,2,4,0.0,2,2,0,0
+16,Lukáš Hrádecký, FIN,GK,Leverkusen,32,1989,6,6,540,6.0,1.33,24,75.0,1,2,3,33.3,3,2,1,0
+17,Franco Israel, URU,GK,Sporting CP,22,2000,2,1,155,1.7,2.32,8,62.5,0,0,1,0.0,1,1,0,0
+18,Gregor Kobel, SUI,GK,Dortmund,24,1997,4,4,315,3.5,0.57,19,89.5,1,3,0,50.0,1,0,1,0
+19,Philipp Köhn, SUI,GK,RB Salzburg,24,1998,6,6,540,6.0,1.5,30,70.0,1,3,2,16.7,0,0,0,0
+20,Dominik Livaković, CRO,GK,Dinamo Zagreb,27,1995,6,6,540,6.0,1.83,35,77.1,1,1,4,16.7,3,3,0,0
+21,Hugo Lloris, FRA,GK,Tottenham,35,1986,6,6,540,6.0,1.0,23,73.9,3,2,1,33.3,0,0,0,0
+22,Pau López, ESP,GK,Marseille,27,1994,6,6,540,6.0,1.33,20,60.0,2,0,4,16.7,0,0,0,0
+23,Andriy Lunin, UKR,GK,Real Madrid,23,1999,2,2,180,2.0,1.0,5,60.0,1,1,0,0.0,0,0,0,0
+24,Mike Maignan, FRA,GK,Milan,27,1995,7,7,630,7.0,0.86,27,77.8,2,3,2,28.6,1,0,1,0
+25,Allan McGregor, SCO,GK,Rangers,40,1982,5,5,450,5.0,3.6,42,61.9,0,0,5,0.0,3,2,1,0
+26,Jon McLaughlin, SCO,GK,Rangers,34,1987,1,1,90,1.0,4.0,9,55.6,0,0,1,0.0,0,0,0,0
+27,Edouard Mendy, SEN,GK,Chelsea,30,1992,1,1,90,1.0,1.0,2,50.0,1,0,0,0.0,0,0,0,0
+28,Alex Meret, ITA,GK,Napoli,25,1997,10,10,900,10.0,0.8,30,76.7,7,1,2,40.0,2,1,1,0
+29,Alexander Meyer, GER,GK,Dortmund,31,1991,5,4,405,4.5,1.11,17,76.5,2,0,2,25.0,1,1,0,0
+30,Simon Mignolet, BEL,GK,Club Brugge,34,1988,8,8,720,8.0,1.37,45,80.0,3,2,3,62.5,3,2,0,1
+31,Manuel Neuer, GER,GK,Bayern Munich,36,1986,3,3,270,3.0,0.0,9,100.0,3,0,0,100.0,0,0,0,0
+32,Jan Oblak, SVN,GK,Atlético Madrid,29,1993,5,5,450,5.0,1.4,22,72.7,1,2,2,20.0,1,1,0,0
+33,André Onana, CMR,GK,Inter,26,1996,13,13,"1,170",13.0,0.85,57,80.7,7,3,3,61.5,0,0,0,0
+34,Stefan Ortega, GER,GK,Manchester City,29,1992,2,2,180,2.0,0.5,6,83.3,1,1,0,50.0,0,0,0,0
+35,Remko Pasveer, NED,GK,Ajax,38,1983,6,6,540,6.0,2.67,37,62.2,2,0,4,16.7,2,2,0,0
+36,Iñaki Peña, ESP,GK,Barcelona,23,1999,1,1,90,1.0,2.0,8,87.5,1,0,0,0.0,1,1,0,0
+37,Mattia Perin, ITA,GK,Juventus,29,1992,2,2,180,2.0,2.0,13,76.9,0,0,2,0.0,1,1,0,0
+38,Mathew Ryan, AUS,GK,FC Copenhagen,30,1992,2,2,180,2.0,1.5,6,50.0,0,1,1,50.0,0,0,0,0
+39,Yann Sommer, SUI,GK,Bayern Munich,33,1988,4,4,360,4.0,1.0,17,76.5,2,1,1,50.0,1,0,0,1
+40,Jindřich Staněk, CZE,GK,Viktoria Plzeň,26,1996,5,5,450,5.0,3.8,42,54.8,0,0,5,0.0,0,0,0,0
+41,Wojciech Szczęsny, POL,GK,Juventus,32,1990,4,4,360,4.0,2.25,19,57.9,1,0,3,0.0,1,1,0,0
+42,Ciprian Tătărușanu, ROU,GK,Milan,36,1986,5,5,450,5.0,1.0,25,84.0,3,0,2,60.0,1,1,0,0
+43,Marc-André ter Stegen, GER,GK,Barcelona,30,1992,5,5,450,5.0,2.0,22,54.5,1,1,3,0.0,0,0,0,0
+44,Kevin Trapp, GER,GK,Eint Frankfurt,32,1990,8,8,720,8.0,1.62,41,73.2,3,1,4,25.0,4,2,1,1
+45,Anatolii Trubin, UKR,GK,Shakhtar,20,2001,6,6,540,6.0,1.67,38,73.7,1,3,2,0.0,0,0,0,0
+46,Marián Tvrdoň, SVK,GK,Viktoria Plzeň,27,1994,1,1,90,1.0,5.0,13,61.5,0,0,1,0.0,0,0,0,0
+47,Sven Ulreich, GER,GK,Bayern Munich,33,1988,3,3,270,3.0,0.67,10,80.0,3,0,0,66.7,0,0,0,0
+48,Odisseas Vlachodimos, GRE,GK,Benfica,28,1994,10,10,900,10.0,1.3,31,67.7,6,3,1,20.0,3,3,0,0
