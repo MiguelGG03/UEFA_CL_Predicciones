@@ -24,6 +24,9 @@ def save_data_to_json(data, filename):
 def ruta(nombre):
     return r'docs\data\PlayerStats_22_23\{nombre}'.format(nombre=nombre)
 
+def ruta_limpia(nombre):
+    return r'docs\data\clear\{nombre}'.format(nombre=nombre)
+
 
 
 """
