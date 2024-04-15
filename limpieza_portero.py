@@ -1,29 +1,12 @@
-import pandas as pd
-import os
+from csv_2_json import *
 
-def no_ucl_in_name(nombre_archivo:str):
-    nombre_final = nombre_archivo.split('_')
-    nombre_final.remove('ucl')
-    nombre_final = '_'.join(nombre_final)
-    return nombre_final
+players = ['Thibaut Courtois']
 
+csv_files = [ ruta("ucl_passing.csv"), ruta("ucl_player_playing_time.csv")]
 
-def limpieza(nombre_archivo:str):
-    df = pd.read_csv(r'.\docs\data\PlayerStats_22_23\{}.csv'.format(nombre_archivo))
-
-    equipos = ['Real Madrid','Atletico','Paris S-G','Manchester City','Arsenal','Dortmund','Barcelona','Bayern Munich']
-
-
-    df = df[df['Club'].isin(equipos)]
-
-    nombre_final = no_ucl_in_name(nombre_archivo)
-
-    os.makedirs(r'.\docs\data\clear\goalkeeper', exist_ok=True)
-    
-    df.to_csv(r'.\docs\data\clear\goalkeeper\{}.csv'.format(nombre_final), index=False)
-
-limpieza(input('Nombre del archivo: '))
-
-
-
-
+for player_name in players:
+    adapter = Csv2Json()
+    player_name_ = player_name.replace(' ', '_')
+    player_data = adapter.load_data(player_name, csv_files)
+    save_data_to_json(player_data, r'docs\data\json\{player}.json'.format(player=player_name_))
+    print("Datos exportados exitosamente en el archivo {player}.json".format(player = player_name_))
