@@ -2,7 +2,7 @@ from csv_2_json import *
 
 players = ['Thibaut Courtois']
 
-csv_files = [ ruta("ucl_advanced_goalkeeping.csv"), ruta("ucl_goalkeeper.csv")]
+csv_files = [ ruta_limpia("ucl_advanced_goalkeeping.csv"), ruta_limpia("ucl_goalkeeper.csv")]
 
 for player_name in players:
     adapter = Csv2Json()
