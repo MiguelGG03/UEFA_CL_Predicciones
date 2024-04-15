@@ -21,8 +21,8 @@ def save_data_to_json(data, filename):
     with open(filename, 'w') as file:
         json.dump(data, file, indent=4)
         
-def ruta(carpeta):
-    return r'docs\data\PlayerStats_22_23\{carpeta}'.format(carpeta=carpeta)
+def ruta(nombre):
+    return r'docs\data\PlayerStats_22_23\{nombre}'.format(nombre=nombre)
 
 
 
