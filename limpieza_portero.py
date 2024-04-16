@@ -1,6 +1,6 @@
 from csv_2_json import *
 
-players = ['Thibaut Courtois']
+players = ['Thibaut Courtois','Marc-André ter Stegen','Manuel Neuer','Jan Oblak','Ederson','Gregor Kobel',]
 
 csv_files = [ ruta_limpia("ucl_advanced_goalkeeping.csv"), ruta_limpia("ucl_goalkeeper.csv")]
 
