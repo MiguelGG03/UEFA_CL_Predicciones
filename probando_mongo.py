@@ -1,19 +1,13 @@
 from pymongo import MongoClient
+from config import username, password
 import pandas as pd
 
-client = MongoClient('localhost', 27017)
+uri  = 'mongodb+srv://admin:i9dnviXyDmU14kO8@cluster0.5noc7o6.mongodb.net/'
+#.format(username=username, password=password)
 
-db = client['uefa-database']
+# client = MongoClient('localhost', 27017)
+client = MongoClient(uri)
 
-df = pd.read_csv('docs\data\clear\goalkeeper\goalkeeper.csv')
+db = client['sample_mflix']
 
-teams = df['Club'].unique().tolist()
-
-teams.append("Arsenal")
-
-for team in teams:
-    temp = db["{team}".format(team=team)]
-    
-madrid = db["Real Madrid"]
-
-madrid.insert_one({})
+print(db.list_collection_names())
