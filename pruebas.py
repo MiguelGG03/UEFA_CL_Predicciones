@@ -1,9 +1,8 @@
-import pandas as pd
-from config import PLANTILLA_REAL_MADRID
+import os
 
-data = pd.read_json('docs/data/equipos/real_madrid.json').to_dict('records')[1]
+directory = r'docs\data\equipos_jugadores\real_madrid'
 
-for name in PLANTILLA_REAL_MADRID:
-    print(name)
-    print(data[name])
-    print('---')
+for filename in os.listdir(directory):
+        if filename.endswith('.json'):
+            file_path = os.path.join(directory, filename)
+            print(file_path)

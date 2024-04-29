@@ -1,5 +1,5 @@
 from pymongo.mongo_client import MongoClient
-from config import username, password
+from config import *
 import pandas as pd
 
 uri = "mongodb+srv://{username}:{password}@cluster0.5noc7o6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0".format(username=username, password=password)
@@ -17,4 +17,3 @@ db = client.get_database("champions")
 
 collection = db.list_collection_names()
 
-db['real_madrid'].insert_many()
