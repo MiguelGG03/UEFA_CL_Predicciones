@@ -1,61 +1,27 @@
 import json
-from abc import ABC, abstractmethod
+import os
 
-class JsonComponent(ABC):
+def merge_json_files(directory, output_file):
     """
-    Clase abstracta para los componentes JSON.
-    """
-    @abstractmethod
-    def get_data(self):
-        pass
+    Esta función toma todos los archivos JSON en un directorio especificado y los combina en un único archivo JSON.
+    Cada archivo JSON se convierte en un elemento de una lista en el archivo de salida.
 
-class JsonLeaf(JsonComponent):
+    Args:
+    directory (str): El camino al directorio que contiene los archivos JSON.
+    output_file (str): El nombre del archivo JSON de salida.
     """
-    Representa un documento JSON individual.
-    """
-    def __init__(self, json_data):
-        self.data = json_data
+    json_list = []
     
-    def get_data(self):
-        return self.data
+    # Recorre todos los archivos en el directorio especificado
+    for filename in os.listdir(directory):
+        if filename.endswith('.json'):
+            file_path = os.path.join(directory, filename)
+            # Abre y lee el archivo JSON
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+                json_list.append(data)  # Agrega el diccionario al final de la lista
+    
+    # Escribe la lista de diccionarios en el archivo de salida
+    with open(output_file, 'w') as file_out:
+        json.dump(json_list, file_out, indent=4)  # Usa indentación para mejor legibilidad
 
-class JsonComposite(JsonComponent):
-    """
-    Compuesto que puede contener múltiples documentos JSON.
-    """
-    def __init__(self):
-        self.children = []
-    
-    def add(self, component: JsonComponent):
-        self.children.append(component)
-    
-    def get_data(self):
-        combined_data = {}
-        for child in self.children:
-            self.merge_data(combined_data, child.get_data())
-        return combined_data
-    
-    def merge_data(self, original, new_data):
-        """
-        Fusiona new_data en original. Este método puede ser extendido para manejar la fusión de maneras específicas.
-        """
-        for key, value in new_data.items():
-            if key in original:
-                if isinstance(original[key], dict) and isinstance(value, dict):
-                    self.merge_data(original[key], value)
-                elif isinstance(original[key], list) and isinstance(value, list):
-                    original[key].extend(value)
-                else:
-                    original[key] = [original[key], value] if not isinstance(original[key], list) else original[key] + [value]
-            else:
-                original[key] = value
-"""
-# Uso del patrón Composite
-composite = JsonComposite()
-composite.add(JsonLeaf({'name': 'Alice', 'age': 25}))
-composite.add(JsonLeaf({'name': 'Bob', 'age': 30}))
-composite.add(JsonLeaf({'skills': ['Python', 'Data Analysis']}))
-
-combined_json = json.dumps(composite.get_data(), indent=4)
-print(combined_json)
-"""
