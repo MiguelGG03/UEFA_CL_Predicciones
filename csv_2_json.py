@@ -25,7 +25,7 @@ def ruta(nombre):
     return r'docs\data\PlayerStats_22_23\{nombre}'.format(nombre=nombre)
 
 def ruta_limpia(nombre):
-    return r'docs\data\clear\{nombre}'.format(nombre=nombre)
+    return r'docs\data\limpio\{nombre}'.format(nombre=nombre)
 
 
 
