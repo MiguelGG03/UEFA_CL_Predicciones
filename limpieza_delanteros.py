@@ -1,7 +1,7 @@
 from csv_2_json import *
 
-players = ['Vinicius Júnior','Karim Benzema','Rodrygo Goes',
-           'Kylian Mbappé','Neymar Jr.','Leo Messi',
+players = ['Vinicius Júnior','Karim Benzema','Rodrygo',
+           'Kylian Mbappé','Neymar','Lionel Messi',
            'Sadio Mané', 'Kingsley Coman','Leroy Sané',
            'Karim Adeyemi','Sébastien Haller','Donyell Malen']
 
