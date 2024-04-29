@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Donyell_Malen.json": {
         "Unnamed: 0": 400,
         "Player": "Donyell Malen",
         "Nationality": " NED",
@@ -89,7 +89,7 @@
         "Expected goal": 0.9,
         "Goals minus expected goals": -0.9
     },
-    {
+    "Emre_Can.json": {
         "Unnamed: 0": 102,
         "Player": "Emre Can",
         "Nationality": " GER",
@@ -180,7 +180,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 19
     },
-    {
+    "Gregor_Kobel.json": {
         "Unnamed: 0": 18,
         "Player": "Gregor Kobel",
         "Nationality": " SUI",
@@ -220,7 +220,7 @@
         "PKsv": 1,
         "PKm": 0
     },
-    {
+    "Jude_Bellingham.json": {
         "Unnamed: 0": 64,
         "Player": "Jude Bellingham",
         "Nationality": " ENG",
@@ -311,7 +311,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 50
     },
-    {
+    "Karim_Adeyemi.json": {
         "Unnamed: 0": 8,
         "Player": "Karim Adeyemi",
         "Nationality": " GER",
@@ -401,7 +401,7 @@
         "Expected goal": 1.8,
         "Goals minus expected goals": 0.2
     },
-    {
+    "Marco_Reus.json": {
         "Unnamed: 0": 559,
         "Player": "Marco Reus",
         "Nationality": " GER",
@@ -492,7 +492,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 9
     },
-    {
+    "Mats_Hummels.json": {
         "Unnamed: 0": 292,
         "Player": "Mats Hummels",
         "Nationality": " GER",
@@ -579,7 +579,7 @@
         "Clearances": 17,
         "Errors": 0
     },
-    {
+    "Nico_Schlotterbeck.json": {
         "Unnamed: 0": 600,
         "Player": "Nico Schlotterbeck",
         "Nationality": " GER",
@@ -666,7 +666,7 @@
         "Clearances": 16,
         "Errors": 1
     },
-    {
+    "Niklas_S\u00fcle.json": {
         "Unnamed: 0": 640,
         "Player": "Niklas S\u00fcle",
         "Nationality": " GER",
@@ -753,7 +753,7 @@
         "Clearances": 25,
         "Errors": 0
     },
-    {
+    "Rapha\u00ebl_Guerreiro.json": {
         "Unnamed: 0": 259,
         "Player": "Rapha\u00ebl Guerreiro",
         "Nationality": " POR",
@@ -840,7 +840,7 @@
         "Clearances": 10,
         "Errors": 0
     },
-    {
+    "S\u00e9bastien_Haller.json": {
         "Unnamed: 0": 268,
         "Player": "S\u00e9bastien Haller",
         "Nationality": " CIV",
@@ -930,4 +930,4 @@
         "Expected goal": 0.2,
         "Goals minus expected goals": -0.2
     }
-]
+}

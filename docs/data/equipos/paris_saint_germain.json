@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Achraf_Hakimi.json": {
         "Unnamed: 0": 266,
         "Player": "Achraf Hakimi",
         "Nationality": " MAR",
@@ -86,7 +86,7 @@
         "Clearances": 7,
         "Errors": 0
     },
-    {
+    "Danilo_Pereira.json": {
         "Unnamed: 0": 528,
         "Player": "Danilo Pereira",
         "Nationality": " POR",
@@ -177,7 +177,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 19
     },
-    {
+    "Gianluigi_Donnarumma.json": {
         "Unnamed: 0": 9,
         "Player": "Gianluigi Donnarumma",
         "Nationality": " ITA",
@@ -217,7 +217,7 @@
         "PKsv": 0,
         "PKm": 0
     },
-    {
+    "Kylian_Mbapp\u00e9.json": {
         "Unnamed: 0": 422,
         "Player": "Kylian Mbapp\u00e9",
         "Nationality": " FRA",
@@ -307,7 +307,7 @@
         "Expected goal": 3.6,
         "Goals minus expected goals": 3.4
     },
-    {
+    "Leandro_Paredes.json": {
         "Unnamed: 0": 515,
         "Player": "Leandro Paredes",
         "Nationality": " ARG",
@@ -398,7 +398,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 29
     },
-    {
+    "Lionel_Messi.json": {
         "Unnamed: 0": 439,
         "Player": "Lionel Messi",
         "Nationality": " ARG",
@@ -488,7 +488,7 @@
         "Expected goal": 2.6,
         "Goals minus expected goals": 1.4
     },
-    {
+    "Marco_Verratti.json": {
         "Unnamed: 0": 698,
         "Player": "Marco Verratti",
         "Nationality": " ITA",
@@ -579,7 +579,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 45
     },
-    {
+    "Marquinhos.json": {
         "Unnamed: 0": 410,
         "Player": "Marquinhos",
         "Nationality": " BRA",
@@ -666,7 +666,7 @@
         "Clearances": 20,
         "Errors": 0
     },
-    {
+    "Neymar.json": {
         "Unnamed: 0": 485,
         "Player": "Neymar",
         "Nationality": " BRA",
@@ -756,7 +756,7 @@
         "Expected goal": 2.1,
         "Goals minus expected goals": -0.1
     },
-    {
+    "Nuno_Mendes.json": {
         "Unnamed: 0": 435,
         "Player": "Nuno Mendes",
         "Nationality": " POR",
@@ -843,7 +843,7 @@
         "Clearances": 7,
         "Errors": 0
     },
-    {
+    "Presnel_Kimpembe.json": {
         "Unnamed: 0": 335,
         "Player": "Presnel Kimpembe",
         "Nationality": " FRA",
@@ -930,4 +930,4 @@
         "Clearances": 2,
         "Errors": 0
     }
-]
+}

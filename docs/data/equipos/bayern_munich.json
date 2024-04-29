@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Alphonso_Davies.json": {
         "Unnamed: 0": 152,
         "Player": "Alphonso Davies",
         "Nationality": " CAN",
@@ -86,7 +86,7 @@
         "Clearances": 12,
         "Errors": 0
     },
-    {
+    "Benjamin_Pavard.json": {
         "Unnamed: 0": 520,
         "Player": "Benjamin Pavard",
         "Nationality": " FRA",
@@ -173,7 +173,7 @@
         "Clearances": 20,
         "Errors": 0
     },
-    {
+    "Dayot_Upamecano.json": {
         "Unnamed: 0": 686,
         "Player": "Dayot Upamecano",
         "Nationality": " FRA",
@@ -260,7 +260,7 @@
         "Clearances": 22,
         "Errors": 2
     },
-    {
+    "Jamal_Musiala.json": {
         "Unnamed: 0": 474,
         "Player": "Jamal Musiala",
         "Nationality": " GER",
@@ -351,7 +351,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 44
     },
-    {
+    "Joshua_Kimmich.json": {
         "Unnamed: 0": 334,
         "Player": "Joshua Kimmich",
         "Nationality": " GER",
@@ -442,7 +442,7 @@
         "Crosses into Penalty Area": 1,
         "Progressive passes": 82
     },
-    {
+    "Kingsley_Coman.json": {
         "Unnamed: 0": 132,
         "Player": "Kingsley Coman",
         "Nationality": " FRA",
@@ -532,7 +532,7 @@
         "Expected goal": 1.0,
         "Goals minus expected goals": 0.0
     },
-    {
+    "Leon_Goretzka.json": {
         "Unnamed: 0": 244,
         "Player": "Leon Goretzka",
         "Nationality": " GER",
@@ -623,7 +623,7 @@
         "Crosses into Penalty Area": 0,
         "Progressive passes": 44
     },
-    {
+    "Leroy_San\u00e9.json": {
         "Unnamed: 0": 591,
         "Player": "Leroy San\u00e9",
         "Nationality": " GER",
@@ -713,7 +713,7 @@
         "Expected goal": 2.5,
         "Goals minus expected goals": 1.5
     },
-    {
+    "Manuel_Neuer.json": {
         "Unnamed: 0": 32,
         "Player": "Manuel Neuer",
         "Nationality": " GER",
@@ -753,7 +753,7 @@
         "PKsv": 0,
         "PKm": 0
     },
-    {
+    "Matthijs_de_Ligt.json": {
         "Unnamed: 0": 379,
         "Player": "Matthijs de Ligt",
         "Nationality": " NED",
@@ -840,7 +840,7 @@
         "Clearances": 21,
         "Errors": 0
     },
-    {
+    "Sadio_Man\u00e9.json": {
         "Unnamed: 0": 402,
         "Player": "Sadio Man\u00e9",
         "Nationality": " SEN",
@@ -930,4 +930,4 @@
         "Expected goal": 1.9,
         "Goals minus expected goals": 1.1
     }
-]
+}

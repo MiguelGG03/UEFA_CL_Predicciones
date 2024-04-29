@@ -17,6 +17,4 @@ db = client.get_database("champions")
 
 collection = db.list_collection_names()
 
-print(collection)
-
-db['real_madrid'].insert_many(pd.read_json('docs/data/equipos/real_madrid.json').to_dict('records')[0])
+db['real_madrid'].insert_many()

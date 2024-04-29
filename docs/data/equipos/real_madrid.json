@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Antonio_R\u00fcdiger.json": {
         "Unnamed: 0": 574,
         "Player": "Antonio R\u00fcdiger",
         "Nationality": " GER",
@@ -86,7 +86,7 @@
         "Clearances": 26,
         "Errors": 0
     },
-    {
+    "Dani_Carvajal.json": {
         "Unnamed: 0": 112,
         "Player": "Dani Carvajal",
         "Nationality": " ESP",
@@ -173,7 +173,7 @@
         "Clearances": 20,
         "Errors": 0
     },
-    {
+    "Federico_Valverde.json": {
         "Unnamed: 0": 690,
         "Player": "Federico Valverde",
         "Nationality": " URU",
@@ -264,7 +264,7 @@
         "Crosses into Penalty Area": 3,
         "Progressive passes": 58
     },
-    {
+    "Ferland_Mendy.json": {
         "Unnamed: 0": 437,
         "Player": "Ferland Mendy",
         "Nationality": " FRA",
@@ -351,7 +351,7 @@
         "Clearances": 4,
         "Errors": 0
     },
-    {
+    "Karim_Benzema.json": {
         "Unnamed: 0": 67,
         "Player": "Karim Benzema",
         "Nationality": " FRA",
@@ -441,7 +441,7 @@
         "Expected goal": 5.1,
         "Goals minus expected goals": -1.1
     },
-    {
+    "Luka_Modri\u0107.json": {
         "Unnamed: 0": 453,
         "Player": "Luka Modri\u0107",
         "Nationality": " CRO",
@@ -532,7 +532,7 @@
         "Crosses into Penalty Area": 3,
         "Progressive passes": 52
     },
-    {
+    "Rodrygo.json": {
         "Unnamed: 0": 569,
         "Player": "Rodrygo",
         "Nationality": " BRA",
@@ -622,7 +622,7 @@
         "Expected goal": 4.5,
         "Goals minus expected goals": 0.5
     },
-    {
+    "Thibaut_Courtois.json": {
         "Unnamed: 0": 7,
         "Player": "Thibaut Courtois",
         "Nationality": " BEL",
@@ -662,7 +662,7 @@
         "PKsv": 1,
         "PKm": 0
     },
-    {
+    "Toni_Kroos.json": {
         "Unnamed: 0": 359,
         "Player": "Toni Kroos",
         "Nationality": " GER",
@@ -753,7 +753,7 @@
         "Crosses into Penalty Area": 3,
         "Progressive passes": 88
     },
-    {
+    "Vinicius_J\u00fanior.json": {
         "Unnamed: 0": 317,
         "Player": "Vinicius J\u00fanior",
         "Nationality": " BRA",
@@ -843,7 +843,7 @@
         "Expected goal": 6.5,
         "Goals minus expected goals": 0.5
     },
-    {
+    "\u00c9der_Milit\u00e3o.json": {
         "Unnamed: 0": 445,
         "Player": "\u00c9der Milit\u00e3o",
         "Nationality": " BRA",
@@ -930,4 +930,4 @@
         "Clearances": 37,
         "Errors": 0
     }
-]
+}
