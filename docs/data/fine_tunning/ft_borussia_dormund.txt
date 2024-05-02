@@ -1,0 +1,43 @@
+<Pregunta>: ¿Cómo ha sido la temporada de Donyell Malen en el Dortmund?
+
+<Respuesta>: Donyell Malen ha jugado 248 minutos en 6 partidos, sin lograr anotar o asistir. A pesar de intentar 8 tiros, solo uno ha sido a puerta, reflejando un rendimiento por debajo de su xG de 0.9. Ha participado activamente en el juego, con 60 transportes de balón y 82 toques, incluyendo 41 en el tercio atacante. Sin embargo, su capacidad para influir en el marcador ha sido limitada esta temporada.
+
+<Pregunta>: ¿Cuál ha sido el impacto de Emre Can en el mediocampo del Dortmund?
+
+<Respuesta>: Emre Can ha sido un pilar en el mediocampo del Dortmund, participando en 565 minutos a lo largo de 7 partidos. Aunque no ha marcado ni asistido, ha sido sólido defensivamente, ganando 13 tackles. Can ha mostrado su habilidad para avanzar el balón, con 568 metros en transportes progresivos, aunque su impacto en la creación de oportunidades de gol ha sido limitado.
+
+<Pregunta>: ¿Cómo ha sido la actuación de Gregor Kobel como portero del Dortmund?
+
+<Respuesta>: Gregor Kobel ha demostrado ser crucial bajo los palos, jugando 315 minutos en 4 partidos. Ha mantenido una tasa de salvamento del 89.5%, concediendo solo 2 goles, lo que es significativamente mejor que su PSxG de 5.5. Esto indica que ha realizado paradas clave que han excedido las expectativas basadas en la calidad de los tiros enfrentados.
+
+<Pregunta>: ¿Qué papel ha desempeñado Jude Bellingham en el Dortmund esta temporada?
+
+<Respuesta>: Jude Bellingham ha tenido una presencia impactante, jugando 630 minutos en 7 partidos, con 4 goles y una asistencia. Su habilidad para moverse y pasar el balón es notable, con 801 metros en transportes progresivos y 50 pases progresivos. Además, ha sido eficaz en recuperar el balón y crear oportunidades, evidenciado por su participación en diversas áreas del campo.
+
+<Pregunta>: ¿Cómo ha sido la temporada de Karim Adeyemi en términos de aporte ofensivo?
+
+<Respuesta>: Karim Adeyemi ha mostrado destellos de su potencial en 376 minutos a lo largo de 6 partidos, marcando 2 goles. Aunque ha sido desposeído 6 veces, ha intentado 26 regates, completando un 38.5% de ellos. Sus 11 tiros y un xG de 1.8 sugieren que ha estado en posiciones para afectar el marcador más significativamente.
+
+<Pregunta>: ¿Cuál ha sido la contribución de Marco Reus al Dortmund esta temporada?
+
+<Respuesta>: Marco Reus ha jugado 262 minutos repartidos en 3 partidos, contribuyendo con 1 gol y 1 asistencia. Ha mostrado su habilidad en la conducción del balón con 196 metros en transportes progresivos y ha tenido un impacto notable en el tercio ofensivo, con 56 toques en esa zona. A pesar de jugar pocos minutos, ha tenido un rendimiento decente ajustado a sus oportunidades.
+
+<Pregunta>: ¿Cómo ha influido Mats Hummels en la defensa del Dortmund?
+
+<Respuesta>: Mats Hummels ha sido un pilar defensivo, participando en 315 minutos a lo largo de 4 partidos. Ha mostrado solidez con 10 bloqueos y ha efectuado 17 despejes. Aunque su contribución ofensiva ha sido limitada, su experiencia sigue siendo crucial en organizar la defensa y manejar la presión del juego, especialmente en el tercio defensivo con 151 toques.
+
+<Pregunta>: ¿Cuál ha sido el rendimiento de Nico Schlotterbeck en la defensa del Dortmund?
+
+<Respuesta>: Nico Schlotterbeck ha jugado 561 minutos en 8 partidos, destacándose por su capacidad para avanzar el balón, con 1245 metros en transportes progresivos. Aunque no ha marcado ni asistido, ha sido activo defensivamente con 10 tackles ganados y ha contribuido en la construcción del juego desde la defensa.
+
+<Pregunta>: ¿Qué papel ha desempeñado Niklas Süle en la defensa del Dortmund?
+
+<Respuesta>: Niklas Süle ha sido una presencia constante en la defensa, jugando 675 minutos en 8 partidos. Ha participado activamente en el juego defensivo con 9 bloqueos y 25 despejes. Además, ha transportado el balón progresivamente por 1060 metros, ayudando a su equipo en la transición del balón desde la defensa al ataque.
+
+<Pregunta>: ¿Cómo ha sido la temporada de Raphaël Guerreiro como lateral en el Dortmund?
+
+<Respuesta>: Raphaël Guerreiro ha mostrado su versatilidad en el lateral, participando en 479 minutos a lo largo de 6 partidos. Aunque principalmente defensivo, ha contribuido ofensivamente con 2 goles. Sus 594 metros en transportes progresivos y 1.1 de xAG indican su habilidad para crear oportunidades desde el lateral.
+
+<Pregunta>: ¿Qué impacto ha tenido Sébastien Haller en el ataque del Dortmund tras su regreso al juego?
+
+<Respuesta>: Sébastien Haller ha jugado 143 minutos en 2 partidos, mostrando su capacidad de adaptación tras un tiempo fuera por enfermedad. Aunque solo ha intentado 2 tiros y no ha marcado, su presencia en el campo ofrece alternativas ofensivas para el Dortmund y puede influir más a medida que recupera su forma física y ritmo de juego.
