@@ -1,0 +1,45 @@
+<Pregunta>: ¿Cuál ha sido la contribución de Achraf Hakimi al Paris S-G esta temporada?
+
+<Respuesta>: Achraf Hakimi ha jugado 580 minutos en 8 partidos, destacándose con 2 asistencias. Ha sido efectivo en avanzar el balón con 1977 metros totales de transporte y ha interactuado bien en el tercio ofensivo con 147 toques. Su capacidad defensiva también se refleja en las 11 intercepciones y 8 tackles ganados, proporcionando una sólida contribución en ambas fases del juego.
+
+<Pregunta>: ¿Cómo ha influido Danilo Pereira en el juego del Paris S-G?
+
+<Respuesta>: Danilo Pereira ha participado en 450 minutos a lo largo de 7 partidos, mostrando una alta precisión en pases con un 93.5% en todas las distancias. Aunque no ha marcado, su juego defensivo es notable, con una participación activa en transportes progresivos y un sólido desempeño en la recuperación de balones.
+
+<Pregunta>: ¿Cuál ha sido el rendimiento de Gianluigi Donnarumma como portero?
+
+<Respuesta>: Donnarumma ha jugado 720 minutos, enfrentando desafíos significativos con 35 tiros a puerta. Aunque ha recibido 10 goles, su porcentaje de salvadas es del 74.3%, y ha superado las expectativas de goles evitados con un PSxG de +1.1. Su capacidad para manejar tiros desde distancias medias es una fortaleza clave.
+
+<Pregunta>: ¿Qué papel ha desempeñado Kylian Mbappé en el ataque del Paris S-G?
+
+<Respuesta>: Kylian Mbappé ha sido explosivo en 651 minutos de juego, marcando 7 goles y proporcionando 3 asistencias. Su agilidad y habilidad para llevar el balón progresivamente se reflejan en los 1254 metros avanzados con posesión y 252 toques en el tercio ofensivo, haciendo de él una amenaza constante para las defensas rivales.
+
+<Pregunta>: ¿Cómo ha sido la temporada de Leandro Paredes con Juventus, comparado con su desempeño en equipos anteriores?
+
+<Respuesta>: En Juventus, Leandro Paredes ha jugado 354 minutos en 4 partidos, contribuyendo con una asistencia. Ha mostrado una precisión en pases del 89.2% y ha sido efectivo en transportes progresivos y pases desde la mitad del campo, demostrando su habilidad para facilitar el juego y crear oportunidades desde posiciones más retrasadas.
+
+<Pregunta>: ¿Cuál ha sido la contribución de Lionel Messi al Paris S-G esta temporada?
+
+<Respuesta>: Lionel Messi ha demostrado su valor con 4 goles y 4 asistencias en 613 minutos, lo cual subraya su capacidad para impactar el juego tanto en la creación como en la finalización. Su habilidad para avanzar con el balón y crear oportunidades es evidente en sus 1110 metros de transporte progresivo y 252 toques en el tercio ofensivo.
+
+<Pregunta>: ¿Qué papel ha desempeñado Marco Verratti en el medio campo del Paris S-G?
+
+<Respuesta>: Marco Verratti ha sido un pilar en el medio campo, jugando 623 minutos en 7 partidos. Su control del juego se ve en su alta tasa de pases completados y su capacidad para mover el balón en zonas avanzadas, con 2894 metros en pases progresivos. A pesar de algunas dificultades defensivas, su influencia en el juego es indiscutible.
+
+<Pregunta>: ¿Cómo ha influido Marquinhos en la defensa del Paris S-G?
+
+<Respuesta>: Marquinhos ha sido fundamental en la defensa, jugando 653 minutos en 8 partidos. Ha manejado bien su zona con 230 toques en el tercio defensivo y ha contribuido modestamente en avances con 838 metros en transportes progresivos. Su presencia ha ayudado a mantener la estructura defensiva del equipo.
+
+<Pregunta>: ¿Qué impacto ha tenido Neymar en el ataque del Paris S-G?
+
+<Respuesta>: Neymar ha tenido un impacto significativo en 539 minutos, marcando 2 goles y dando 2 asistencias. Su habilidad en driblar y crear oportunidades es crucial, avanzando 1346 metros
+
+ de manera progresiva y participando activamente en el tercio ofensivo con 205 toques.
+
+<Pregunta>: ¿Cómo ha sido el desempeño de Nuno Mendes en la defensa y el avance del balón?
+
+<Respuesta>: Nuno Mendes ha jugado 439 minutos, mostrando su habilidad tanto en defensa como en avance del balón. Aunque solo ha marcado 1 gol, su capacidad para transportar el balón y participar en el juego ofensivo es notable, con 541 metros en transportes progresivos y 114 toques en el tercio ofensivo.
+
+<Pregunta>: ¿Cuál ha sido la contribución de Presnel Kimpembe en la defensa del Paris S-G?
+
+<Respuesta>: Presnel Kimpembe ha jugado solo 147 minutos en 3 partidos, pero ha mostrado solidez defensiva con pocas oportunidades de avanzar el balón. A pesar de su limitada participación, ha mantenido un desempeño consistente en defensa, con una correcta colocación y efectividad en los despejes.
