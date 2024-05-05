@@ -27,3 +27,7 @@ En cuanto al tema datos, inicialmente pensé en scrapear el transfermarkt con un
 Esto cambia un poco la realidad del asunto pero para hacer un proyecto predictivo podría valer. En cuanto a los GPT, decidí reducirlos a un GPT por equipo, los cuales estarían comunicados entre sí para saber que jugadores pesan más frente a otros  que no llevara un lio un único agente.
 
 Finalmente todo esto se vió reducido a un único agente entrenado con la base de datos al completo.
+
+### Base de datos de MongoDB a FAISS
+
+Después de explorar y entender un poco el funcionamiento de los GPT, o en mi caso de LLaMA3, entendí que para crear un RAG de el mismo necesito que mi base de datos sea vectorial, por lo que debo transformar los datos de MongoDB a la base de datos FAISS
