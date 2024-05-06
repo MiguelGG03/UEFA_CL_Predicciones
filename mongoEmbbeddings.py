@@ -17,33 +17,35 @@ class ExtendedLabelEncoder(LabelEncoder):
         return super().transform(new_y)
 
 uri = "mongodb+srv://{username}:{password}@cluster0.5noc7o6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0".format(username=username, password=password)
-
 client = MongoClient(uri)
 
 try:
     client.admin.command('ping')
     print("Pinged your deployment. You successfully connected to MongoDB!")
 except Exception as e:
-    print(e)
+    print("Error conectando a MongoDB:", e)
     
-
 db = client.get_database("champions")
 collections = db.list_collection_names()
+print("Colecciones disponibles:", collections)
 
 encoder_dict = {}
 attribute_keys = set()
 
-# Initialize and fit encoders for all string attributes
 for collection in collections:
     coll = db[collection]
     players_data = list(coll.find({}, {'_id': 0}))
+    print(f"Datos en {collection}:", players_data)
+    if not players_data:
+        continue  # Si no hay datos, pasa a la siguiente colección
     for player in players_data:
         for key, value in player.items():
             if isinstance(value, str):  # Initialize encoder for string fields
                 if key not in encoder_dict:
-                    encoder_dict[key] = ExtendedLabelEncoder()
                     all_values = [p[key] for p in players_data if key in p]
-                    encoder_dict[key].fit(all_values + ['<unknown>'])  # Add a placeholder for unknown items
+                    encoder_dict[key] = ExtendedLabelEncoder()
+                    encoder_dict[key].fit(all_values + ['<unknown>'])
+                    print(f"Encoder para {key} entrenado con valores: {encoder_dict[key].classes_}")
 
 # Second pass: Encode data
 vectors = []
@@ -58,8 +60,9 @@ for collection in collections:
                 encoded_value = encoder_dict[key].transform([value])[0]
                 vector.append(encoded_value)
             else:
-                vector.append(value)  # If no encoder, append the value directly (possibly replace with handling code)
+                vector.append(value)  # If no encoder, append the value directly
         vectors.append(vector)
+        print(f"Vector for player {player.get('name', 'Unknown')}: {vector}")
 
 vectors_np = np.array(vectors)
-print(vectors_np)
+print("Array final:", vectors_np)
