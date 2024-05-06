@@ -15,7 +15,7 @@ except Exception as e:
 
 db = client.get_database("champions")
 
-collections = ['real_madrid','paris_saint_germain','borussia_dormund','bayern_munich']
+collections = db.list_collection_names()
 
 def main_1(db, collections):
     for collection_ in collections:
