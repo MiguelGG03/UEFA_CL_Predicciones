@@ -28,31 +28,31 @@ for collection in collections:
     # Initialize vectors list to store encoded data
     vectors = []
 
-    # Check if 'Player' encoder has been created and fit it with all player names in the dataset
-    if 'Player' not in encoder_dict:
-        encoder_dict['Player'] = LabelEncoder()
-        all_players = [player['Player'] for player in players_data]  # List all player names
-        encoder_dict['Player'].fit(all_players)  # Fit the encoder with all player names
+    # Initialize and fit encoders for all attributes based on the first document to generalize for all string attributes
+    if players_data:
+        for key in players_data[0]:
+            if isinstance(players_data[0][key], str):  # Check if the attribute is a string
+                encoder_dict[key] = LabelEncoder()
+                all_values = [player[key] for player in players_data if key in player]
+                encoder_dict[key].fit(all_values)
 
     # Process each player's data
     for player in players_data:
         vector = []
         for attribute, value in player.items():
-            if attribute == 'Player':
-                # Transform the player's name using the pre-fitted LabelEncoder
-                encoded_value = encoder_dict['Player'].transform([value])[0]
-                vector.append(encoded_value)
+            if isinstance(value, str):
+                # Transform the string value using the pre-fitted LabelEncoder
+                if attribute in encoder_dict:  # Ensure the encoder was created for this attribute
+                    encoded_value = encoder_dict[attribute].transform([value])[0]
+                    vector.append(encoded_value)
+                else:
+                    # If somehow the attribute was missed in the encoder setup, print a warning
+                    print(f"Warning: No encoder found for {attribute}. Skipping this attribute.")
             elif isinstance(value, (int, float)):  # Directly append numerical attributes
                 vector.append(value)
             else:
-                # Encode other categorical attributes
-                if attribute not in encoder_dict:
-                    encoder_dict[attribute] = LabelEncoder()
-                    # Fit the encoder to the attribute values
-                    attr_values = [p[attribute] for p in players_data]
-                    encoder_dict[attribute].fit(attr_values)
-                encoded_value = encoder_dict[attribute].transform([value])[0]
-                vector.append(encoded_value)
+                # If the value is neither string nor numeric (unlikely in this context), you can decide to skip or handle it separately
+                print(f"Unhandled data type for attribute {attribute}: {type(value)}. Skipping.")
         vectors.append(vector)
 
     # Convert the list of lists into a NumPy array
