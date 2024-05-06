@@ -17,7 +17,16 @@ class ExtendedLabelEncoder(LabelEncoder):
         return super().transform(new_y)
 
 uri = "mongodb+srv://{username}:{password}@cluster0.5noc7o6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0".format(username=username, password=password)
+
 client = MongoClient(uri)
+
+try:
+    client.admin.command('ping')
+    print("Pinged your deployment. You successfully connected to MongoDB!")
+except Exception as e:
+    print(e)
+    
+
 db = client.get_database("champions")
 collections = db.list_collection_names()
 
