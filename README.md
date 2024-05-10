@@ -31,3 +31,7 @@ Finalmente todo esto se vió reducido a un único agente entrenado con la base d
 ### Base de datos de MongoDB a FAISS
 
 Después de explorar y entender un poco el funcionamiento de los GPT, o en mi caso de LLaMA3, entendí que para crear un RAG de el mismo necesito que mi base de datos sea vectorial, por lo que debo transformar los datos de MongoDB a la base de datos FAISS
+
+### Haciendo un RAG con LLaMA 3
+
+Ya que me resultó imposible transformar la base de datos MongoDB a FAISS, he decicido usar la documentación oficial de LLaMA para poder [hacer un RAG con LLaMA 3](https://docs.llamaindex.ai/en/stable/optimizing/building_rag_from_scratch/)
