@@ -11,7 +11,7 @@ def format_history(msg:str, history:list[list[str,str]], system_prompt:str):
 
 def generate_response(msg:str, history:list[list[str,str]], system_prompt:str):
     chat_history = format_history(msg, history, system_prompt)
-    response = ollama.chat(model = "llama3", stream=True, messages = chat_history)
+    response = ollama.chat(model="llama3", stream=True, messages=chat_history, url="http://127.0.0.1:7860")
     message = ""
     for partial_resp in response:
         token = partial_resp["message"]["content"]
